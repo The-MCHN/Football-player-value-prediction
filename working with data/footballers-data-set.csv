@@ -1,0 +1,2434 @@
+,Unnamed: 0,player,age,nationality,position,value_euro
+0,0,Ederson,28,Brazil,goalkeeper,50000000.0
+1,1,Zack Steffen,27,United States,goalkeeper,6000000.0
+2,2,Scott Carson,36,England,goalkeeper,300000.0
+3,3,Rúben Dias,25,Portugal,defender,75000000.0
+4,4,Aymeric Laporte,28,Spain,defender,45000000.0
+5,5,John Stones,28,England,defender,28000000.0
+6,6,Nathan Aké,27,Netherlands,defender,25000000.0
+7,7,Oleksandr Zinchenko,25,Ukraine,defender,25000000.0
+8,8,Benjamin Mendy,27,France,defender, 
+9,9,João Cancelo,28,Portugal,defender,60000000.0
+10,10,Kyle Walker,32,England,defender,25000000.0
+11,11,Rodri,25,Spain,midfield,70000000.0
+12,12,Fernandinho,37,Brazil,midfield,2000000.0
+13,13,Phil Foden,22,England,midfield,90000000.0
+14,14,Ilkay Gündogan,31,Germany,midfield,35000000.0
+15,15,Kevin De Bruyne,30,Belgium,midfield,90000000.0
+16,16,Bernardo Silva,27,Portugal,midfield,75000000.0
+17,17,Cole Palmer,20,England,midfield,3000000.0
+18,18,Raheem Sterling,27,England,attack,85000000.0
+19,19,Jack Grealish,26,England,attack,80000000.0
+20,20,Riyad Mahrez,31,Algeria,attack,40000000.0
+21,21,Gabriel Jesus,25,Brazil,attack,50000000.0
+22,22,Alisson,29,Brazil,goalkeeper,60000000.0
+23,23,Caoimhin Kelleher,23,Ireland,goalkeeper,5000000.0
+24,24,Loris Karius,28,Germany,goalkeeper,1500000.0
+25,25,Adrián,35,Spain,goalkeeper,1000000.0
+26,26,Virgil van Dijk,30,Netherlands,defender,55000000.0
+27,27,Ibrahima Konaté,23,France,defender,30000000.0
+28,28,Joe Gomez,25,England,defender,22000000.0
+29,29,Joel Matip,30,Cameroon,defender,18000000.0
+30,30,Nathaniel Phillips,25,England,defender,8000000.0
+31,31,Sepp van den Berg,20,Netherlands,defender,5000000.0
+32,32,Rhys Williams,21,England,defender,4000000.0
+33,33,Ben Davies,26,England,defender,2500000.0
+34,34,Andrew Robertson,28,Scotland,defender,65000000.0
+35,35,Konstantinos Tsimikas,26,Greece,defender,10000000.0
+36,36,Trent Alexander-Arnold,23,England,defender,80000000.0
+37,37,Neco Williams,21,Wales,defender,8000000.0
+38,38,Fabinho,28,Brazil,midfield,60000000.0
+39,39,Naby Keïta,27,Guinea,midfield,30000000.0
+40,40,Curtis Jones,21,England,midfield,30000000.0
+41,41,Thiago,31,Spain,midfield,22000000.0
+42,42,Jordan Henderson,31,England,midfield,18000000.0
+43,43,Alex Oxlade-Chamberlain,28,England,midfield,18000000.0
+44,44,James Milner,36,England,midfield,2000000.0
+45,45,Sadio Mané,30,Senegal,attack,80000000.0
+46,46,Luis Díaz,25,Colombia,attack,45000000.0
+47,47,Takumi Minamino,27,Japan,attack,12000000.0
+48,48,Sheyi Ojo,24,England,attack,2000000.0
+49,49,Ben Woodburn,22,Wales,attack,1500000.0
+50,50,Mohamed Salah,29,Egypt,attack,100000000.0
+51,51,Harvey Elliott,19,England,attack,22000000.0
+52,52,Diogo Jota,25,Portugal,attack,60000000.0
+53,53,Roberto Firmino,30,Brazil,attack,38000000.0
+54,54,Divock Origi,27,Belgium,attack,12000000.0
+55,55,Edouard Mendy,30,Senegal,goalkeeper,32000000.0
+56,56,Kepa Arrizabalaga,27,Spain,goalkeeper,10000000.0
+57,57,Marcus Bettinelli,30,England,goalkeeper,2500000.0
+58,58,Antonio Rüdiger,29,Germany,defender,35000000.0
+59,59,Andreas Christensen,26,Denmark,defender,35000000.0
+60,60,Trevoh Chalobah,22,England,defender,20000000.0
+61,61,Malang Sarr,23,France,defender,8000000.0
+62,62,Thiago Silva,37,Brazil,defender,2500000.0
+63,63,Jake Clarke-Salter,24,England,defender,2000000.0
+64,64,Ben Chilwell,25,England,defender,38000000.0
+65,65,Marcos Alonso,31,Spain,defender,15000000.0
+66,66,Abdul-Rahman Baba,27,Ghana,defender,2200000.0
+67,67,Reece James,22,England,defender,55000000.0
+68,68,César Azpilicueta,32,Spain,defender,11000000.0
+69,69,N'Golo Kanté,31,France,midfield,50000000.0
+70,70,Jorginho,30,Italy,midfield,45000000.0
+71,71,Mateo Kovacic,28,Croatia,midfield,45000000.0
+72,72,Saúl Ñíguez,27,Spain,midfield,28000000.0
+73,73,Ruben Loftus-Cheek,26,England,midfield,20000000.0
+74,74,Ross Barkley,28,England,midfield,13000000.0
+75,75,Billy Gilmour,20,Scotland,midfield,12000000.0
+76,76,Danny Drinkwater,32,England,midfield,1200000.0
+77,77,Kenedy,26,Brazil,midfield,7000000.0
+78,78,Mason Mount,23,England,midfield,75000000.0
+79,79,Kai Havertz,22,Germany,midfield,70000000.0
+80,80,Hakim Ziyech,29,Morocco,midfield,32000000.0
+81,81,Charly Musonda Jr.,25,Belgium,midfield,1000000.0
+82,82,Christian Pulisic,23,United States,attack,45000000.0
+83,83,Callum Hudson-Odoi,21,England,attack,30000000.0
+84,84,Romelu Lukaku,29,Belgium,attack,85000000.0
+85,85,Timo Werner,26,Germany,attack,42000000.0
+86,86,Gianluigi Donnarumma,23,Italy,goalkeeper,50000000.0
+87,87,Keylor Navas,35,Costa Rica,goalkeeper,8000000.0
+88,88,Alexandre Letellier,31,France,goalkeeper,400000.0
+89,89,Garissone Innocent,22,Haiti,goalkeeper,300000.0
+90,90,Denis Franchi,19,Italy,goalkeeper,250000.0
+91,91,Marquinhos,28,Brazil,defender,70000000.0
+92,92,Presnel Kimpembe,26,France,defender,40000000.0
+93,93,Thilo Kehrer,25,Germany,defender,22000000.0
+94,94,Sergio Ramos,36,Spain,defender,6000000.0
+95,95,El Chadaille Bitshiabu,17,France,defender,2000000.0
+96,96,Nuno Mendes,19,Portugal,defender,40000000.0
+97,97,Abdou Diallo,26,Senegal,defender,18000000.0
+98,98,Juan Bernat,29,Spain,defender,12000000.0
+99,99,Layvin Kurzawa,29,France,defender,5000000.0
+100,100,Achraf Hakimi,23,Morocco,defender,65000000.0
+101,101,Colin Dagba,23,France,defender,7000000.0
+102,102,Nathan Bitumazala,19,France,defender,400000.0
+103,103,Leandro Paredes,27,Argentina,midfield,17000000.0
+104,104,Danilo Pereira,30,Portugal,midfield,14000000.0
+105,105,Idrissa Gueye,32,Senegal,midfield,12000000.0
+106,106,Anfane Ahamada,20,Comoros,midfield,100000.0
+107,107,Marco Verratti,29,Italy,midfield,50000000.0
+108,108,Georginio Wijnaldum,31,Netherlands,midfield,18000000.0
+109,109,Ander Herrera,32,Spain,midfield,10000000.0
+110,110,Junior Dina Ebimbe,21,France,midfield,5000000.0
+111,111,Tidjany Touré,19,France,midfield,100000.0
+112,112,Xavi Simons,19,Netherlands,midfield,4000000.0
+113,113,Edouard Michut,19,France,midfield,3000000.0
+114,114,Ismaël Gharbi,18,France,midfield,1500000.0
+115,115,Neymar,30,Brazil,attack,75000000.0
+116,116,Julian Draxler,28,Germany,attack,18000000.0
+117,117,Lionel Messi,34,Argentina,attack,50000000.0
+118,118,Ángel Di María,34,Argentina,attack,12000000.0
+119,119,Kylian Mbappé,23,France,attack,160000000.0
+120,120,Mauro Icardi,29,Argentina,attack,22000000.0
+121,121,Manuel Neuer,36,Germany,goalkeeper,14000000.0
+122,122,Sven Ulreich,33,Germany,goalkeeper,900000.0
+123,123,Christian Früchtl,22,Germany,goalkeeper,600000.0
+124,124,Lucas Hernández,26,France,defender,50000000.0
+125,125,Dayot Upamecano,23,France,defender,45000000.0
+126,126,Niklas Süle,26,Germany,defender,35000000.0
+127,127,Tanguy Nianzou,19,France,defender,9000000.0
+128,128,Alphonso Davies,21,Canada,defender,70000000.0
+129,129,Omar Richards,24,England,defender,7000000.0
+130,130,Benjamin Pavard,26,France,defender,30000000.0
+131,131,Josip Stanisic,22,Croatia,defender,4000000.0
+132,132,Bouna Sarr,30,Senegal,defender,3000000.0
+133,133,Joshua Kimmich,27,Germany,midfield,85000000.0
+134,134,Marc Roca,25,Spain,midfield,7000000.0
+135,135,Leon Goretzka,27,Germany,midfield,70000000.0
+136,136,Marcel Sabitzer,28,Austria,midfield,22000000.0
+137,137,Corentin Tolisso,27,France,midfield,15000000.0
+138,138,Jamal Musiala,19,Germany,midfield,55000000.0
+139,139,Paul Wanner,16,Germany,midfield,2000000.0
+140,140,Malik Tillman,20,United States,midfield,1500000.0
+141,141,Leroy Sané,26,Germany,attack,70000000.0
+142,142,Serge Gnabry,26,Germany,attack,70000000.0
+143,143,Kingsley Coman,25,France,attack,60000000.0
+144,144,Thomas Müller,32,Germany,attack,25000000.0
+145,145,Robert Lewandowski,33,Poland,attack,50000000.0
+146,146,Eric Maxim Choupo-Moting,33,Cameroon,attack,3500000.0
+147,147,Dean Henderson,25,England,goalkeeper,18000000.0
+148,148,David de Gea,31,Spain,goalkeeper,15000000.0
+149,149,Tom Heaton,36,England,goalkeeper,1000000.0
+150,150,Lee Grant,39,England,goalkeeper,250000.0
+151,151,Raphaël Varane,29,France,defender,60000000.0
+152,152,Harry Maguire,29,England,defender,40000000.0
+153,153,Victor Lindelöf,27,Sweden,defender,24000000.0
+154,154,Eric Bailly,28,Cote d'Ivoire,defender,8000000.0
+155,155,Phil Jones,30,England,defender,4000000.0
+156,156,Luke Shaw,26,England,defender,42000000.0
+157,157,Alex Telles,29,Brazil,defender,18000000.0
+158,158,Brandon Williams,21,England,defender,10000000.0
+159,159,Aaron Wan-Bissaka,24,England,defender,30000000.0
+160,160,Diogo Dalot,23,Portugal,defender,18000000.0
+161,161,Scott McTominay,25,Scotland,midfield,35000000.0
+162,162,Nemanja Matić,33,Serbia,midfield,6000000.0
+163,163,Paul Pogba,29,France,midfield,55000000.0
+164,164,Donny van de Beek,25,Netherlands,midfield,25000000.0
+165,165,Fred,29,Brazil,midfield,22000000.0
+166,166,Bruno Fernandes,27,Portugal,midfield,90000000.0
+167,167,Jesse Lingard,29,England,midfield,20000000.0
+168,168,Hannibal Mejbri,19,Tunisia,midfield,5000000.0
+169,169,Juan Mata,34,Spain,midfield,3000000.0
+170,170,Jadon Sancho,22,England,attack,80000000.0
+171,171,Marcus Rashford,24,England,attack,70000000.0
+172,172,Anthony Elanga,20,Sweden,attack,15000000.0
+173,173,Amad Diallo,19,Cote d'Ivoire,attack,18000000.0
+174,174,Shola Shoretire,18,England,attack,3000000.0
+175,175,Mason Greenwood,20,England,attack, 
+176,176,Cristiano Ronaldo,37,Portugal,attack,35000000.0
+177,177,Edinson Cavani,35,Uruguay,attack,4000000.0
+178,178,Thibaut Courtois,30,Belgium,goalkeeper,65000000.0
+179,179,Andriy Lunin,23,Ukraine,goalkeeper,2000000.0
+180,180,Éder Militão,24,Brazil,defender,60000000.0
+181,181,David Alaba,29,Austria,defender,55000000.0
+182,182,Nacho Fernández,32,Spain,defender,7000000.0
+183,183,Jesús Vallejo,25,Spain,defender,3000000.0
+184,184,Ferland Mendy,26,France,defender,50000000.0
+185,185,Miguel Gutiérrez,20,Spain,defender,6000000.0
+186,186,Marcelo,34,Brazil,defender,3000000.0
+187,187,Daniel Carvajal,30,Spain,defender,18000000.0
+188,188,Lucas Vázquez,30,Spain,defender,12000000.0
+189,189,Casemiro,30,Brazil,midfield,50000000.0
+190,190,Federico Valverde,23,Uruguay,midfield,65000000.0
+191,191,Eduardo Camavinga,19,France,midfield,55000000.0
+192,192,Toni Kroos,32,Germany,midfield,25000000.0
+193,193,Dani Ceballos,25,Spain,midfield,15000000.0
+194,194,Luka Modric,36,Croatia,midfield,10000000.0
+195,195,Isco,30,Spain,midfield,7500000.0
+196,196,Vinicius Junior,21,Brazil,attack,100000000.0
+197,197,Eden Hazard,31,Belgium,attack,16000000.0
+198,198,Marco Asensio,26,Spain,attack,40000000.0
+199,199,Rodrygo,21,Brazil,attack,40000000.0
+200,200,Gareth Bale,32,Wales,attack,3000000.0
+201,201,Karim Benzema,34,France,attack,25000000.0
+202,202,Luka Jović,24,Serbia,attack,18000000.0
+203,203,Mariano Díaz,28,Dominican Republic,attack,6000000.0
+204,204,Marc-André ter Stegen,30,Germany,goalkeeper,45000000.0
+205,205,Neto,32,Brazil,goalkeeper,4000000.0
+206,206,Arnau Tenas,21,Spain,goalkeeper,1500000.0
+207,207,Ronald Araújo,23,Uruguay,defender,40000000.0
+208,208,Eric García,21,Spain,defender,18000000.0
+209,209,Clément Lenglet,26,France,defender,14000000.0
+210,210,Óscar Mingueza,23,Spain,defender,9000000.0
+211,211,Gerard Piqué,35,Spain,defender,5000000.0
+212,212,Samuel Umtiti,28,France,defender,2000000.0
+213,213,Jordi Alba,33,Spain,defender,12000000.0
+214,214,Álex Balde,18,Spain,defender,5000000.0
+215,215,Sergiño Dest,21,United States,defender,18000000.0
+216,216,Moussa Wagué,23,Senegal,defender,2000000.0
+217,217,Dani Alves,39,Brazil,defender,1000000.0
+218,218,Sergio Busquets,33,Spain,midfield,9000000.0
+219,219,Pedri,19,Spain,midfield,80000000.0
+220,220,Frenkie de Jong,25,Netherlands,midfield,70000000.0
+221,221,Gavi,17,Spain,midfield,60000000.0
+222,222,Nico González,20,Spain,midfield,25000000.0
+223,223,Riqui Puig,22,Spain,midfield,9000000.0
+224,224,Sergi Roberto,30,Spain,midfield,7000000.0
+225,225,Ansu Fati,19,Spain,attack,60000000.0
+226,226,Ferran Torres,22,Spain,attack,45000000.0
+227,227,Ez Abde,20,Morocco,attack,8000000.0
+228,228,Ousmane Dembélé,25,France,attack,30000000.0
+229,229,Adama Traoré,26,Spain,attack,28000000.0
+230,230,Memphis Depay,28,Netherlands,attack,45000000.0
+231,231,Pierre-Emerick Aubameyang,32,Gabon,attack,15000000.0
+232,232,Martin Braithwaite,30,Denmark,attack,7500000.0
+233,233,Luuk de Jong,31,Netherlands,attack,4000000.0
+234,234,Jan Oblak,29,Slovenia,goalkeeper,60000000.0
+235,235,Benjamin Lecomte,31,France,goalkeeper,7500000.0
+236,236,José María Giménez,27,Uruguay,defender,50000000.0
+237,237,Mario Hermoso,26,Spain,defender,25000000.0
+238,238,Stefan Savic,31,Montenegro,defender,20000000.0
+239,239,Felipe,33,Brazil,defender,7000000.0
+240,240,Renan Lodi,24,Brazil,defender,25000000.0
+241,241,Reinildo Mandava,28,Mozambique,defender,15000000.0
+242,242,Sime Vrsaljko,30,Croatia,defender,5000000.0
+243,243,Geoffrey Kondogbia,29,Central African Republic,midfield,15000000.0
+244,244,Marcos Llorente,27,Spain,midfield,60000000.0
+245,245,Rodrigo de Paul,28,Argentina,midfield,40000000.0
+246,246,Koke,30,Spain,midfield,35000000.0
+247,247,Daniel Wass,33,Denmark,midfield,6000000.0
+248,248,Héctor Herrera,32,Mexico,midfield,5000000.0
+249,249,Thomas Lemar,26,France,midfield,40000000.0
+250,250,Yannick Carrasco,28,Belgium,attack,40000000.0
+251,251,João Félix,22,Portugal,attack,70000000.0
+252,252,Antoine Griezmann,31,France,attack,50000000.0
+253,253,Ángel Correa,27,Argentina,attack,45000000.0
+254,254,Matheus Cunha,23,Brazil,attack,30000000.0
+255,255,Luis Suárez,35,Uruguay,attack,10000000.0
+256,256,Pierluigi Gollini,27,Italy,goalkeeper,10000000.0
+257,257,Hugo Lloris,35,France,goalkeeper,7000000.0
+258,258,Brandon Austin,23,England,goalkeeper,250000.0
+259,259,Cristian Romero,24,Argentina,defender,40000000.0
+260,260,Davinson Sánchez,25,Colombia,defender,30000000.0
+261,261,Eric Dier,28,England,defender,22000000.0
+262,262,Japhet Tanganga,23,England,defender,15000000.0
+263,263,Joe Rodon,24,Wales,defender,8000000.0
+264,264,Sergio Reguilón,25,Spain,defender,28000000.0
+265,265,Ben Davies,29,Wales,defender,20000000.0
+266,266,Emerson Royal,23,Brazil,defender,25000000.0
+267,267,Matt Doherty,30,Ireland,defender,12000000.0
+268,268,Oliver Skipp,21,England,midfield,20000000.0
+269,269,Harry Winks,26,England,midfield,17000000.0
+270,270,Pierre-Emile Höjbjerg,26,Denmark,midfield,40000000.0
+271,271,Rodrigo Bentancur,24,Uruguay,midfield,25000000.0
+272,272,Ryan Sessegnon,22,England,midfield,15000000.0
+273,273,Heung-min Son,29,"Korea, South",attack,80000000.0
+274,274,Steven Bergwijn,24,Netherlands,attack,18000000.0
+275,275,Dejan Kulusevski,22,Sweden,attack,35000000.0
+276,276,Lucas Moura,29,Brazil,attack,20000000.0
+277,277,Jack Clarke,21,England,attack,5000000.0
+278,278,Harry Kane,28,England,attack,100000000.0
+279,279,Wojciech Szczesny,32,Poland,goalkeeper,15000000.0
+280,280,Mattia Perin,29,Italy,goalkeeper,4000000.0
+281,281,Carlo Pinsoglio,32,Italy,goalkeeper,400000.0
+282,282,Matthijs de Ligt,22,Netherlands,defender,70000000.0
+283,283,Leonardo Bonucci,35,Italy,defender,8000000.0
+284,284,Daniele Rugani,27,Italy,defender,3500000.0
+285,285,Giorgio Chiellini,37,Italy,defender,1500000.0
+286,286,Alex Sandro,31,Brazil,defender,9000000.0
+287,287,Luca Pellegrini,23,Italy,defender,8000000.0
+288,288,Danilo,30,Brazil,defender,15000000.0
+289,289,Juan Cuadrado,34,Colombia,defender,10000000.0
+290,290,Mattia De Sciglio,29,Italy,defender,6000000.0
+291,291,Manuel Locatelli,24,Italy,midfield,35000000.0
+292,292,Denis Zakaria,25,Switzerland,midfield,27000000.0
+293,293,Arthur,25,Brazil,midfield,20000000.0
+294,294,Weston McKennie,23,United States,midfield,25000000.0
+295,295,Adrien Rabiot,27,France,midfield,18000000.0
+296,296,Aaron Ramsey,31,Wales,midfield,5000000.0
+297,297,Marley Aké,21,France,attack,2200000.0
+298,298,Federico Chiesa,24,Italy,attack,70000000.0
+299,299,Federico Bernardeschi,28,Italy,attack,15000000.0
+300,300,Paulo Dybala,28,Argentina,attack,40000000.0
+301,301,Dušan Vlahović,22,Serbia,attack,85000000.0
+302,302,Álvaro Morata,29,Spain,attack,30000000.0
+303,303,Moise Kean,22,Italy,attack,28000000.0
+304,304,Kaio Jorge,20,Brazil,attack,10000000.0
+305,305,Gregor Kobel,24,Switzerland,goalkeeper,20000000.0
+306,306,Roman Bürki,31,Switzerland,goalkeeper,1800000.0
+307,307,Luca Unbehaun,21,Germany,goalkeeper,1500000.0
+308,308,Marwin Hitz,34,Switzerland,goalkeeper,1000000.0
+309,309,Stefan Drljaca,23,Germany,goalkeeper,200000.0
+310,310,Manuel Akanji,26,Switzerland,defender,30000000.0
+311,311,Dan-Axel Zagadou,22,France,defender,9000000.0
+312,312,Mats Hummels,33,Germany,defender,9000000.0
+313,313,Marin Pongracic,24,Croatia,defender,7500000.0
+314,314,Soumaïla Coulibaly,18,France,defender,750000.0
+315,315,Raphaël Guerreiro,28,Portugal,defender,35000000.0
+316,316,Nico Schulz,29,Germany,defender,6000000.0
+317,317,Marcel Schmelzer,34,Germany,defender,500000.0
+318,318,Tom Rothe,17,Germany,defender, 
+319,319,Thomas Meunier,30,Belgium,defender,9000000.0
+320,320,Mateu Morey Bauzà,22,Spain,defender,4000000.0
+321,321,Felix Passlack,24,Germany,defender,2500000.0
+322,322,Emre Can,28,Germany,midfield,16000000.0
+323,323,Axel Witsel,33,Belgium,midfield,4000000.0
+324,324,Abdoulaye Kamara,17,Guinea,midfield,1000000.0
+325,325,Jude Bellingham,18,England,midfield,75000000.0
+326,326,Mahmoud Dahoud,26,Germany,midfield,18000000.0
+327,327,Giovanni Reyna,19,United States,midfield,42000000.0
+328,328,Julian Brandt,26,Germany,midfield,25000000.0
+329,329,Marco Reus,33,Germany,midfield,13000000.0
+330,330,Reinier,20,Brazil,midfield,10000000.0
+331,331,Thorgan Hazard,29,Belgium,attack,20000000.0
+332,332,Marius Wolf,27,Germany,attack,5000000.0
+333,333,Jamie Bynoe-Gittens,17,England,attack, 
+334,334,Erling Haaland,21,Norway,attack,150000000.0
+335,335,Donyell Malen,23,Netherlands,attack,27000000.0
+336,336,Youssoufa Moukoko,17,Germany,attack,15000000.0
+337,337,Steffen Tigges,23,Germany,attack,1500000.0
+338,338,Ionut Radu,25,Romania,goalkeeper,4000000.0
+339,339,Samir Handanovic,37,Slovenia,goalkeeper,2500000.0
+340,340,Alex Cordaz,39,Italy,goalkeeper,400000.0
+341,341,Milan Skriniar,27,Slovakia,defender,65000000.0
+342,342,Alessandro Bastoni,23,Italy,defender,60000000.0
+343,343,Stefan de Vrij,30,Netherlands,defender,35000000.0
+344,344,Andrea Ranocchia,34,Italy,defender,1000000.0
+345,345,Federico Dimarco,24,Italy,defender,16000000.0
+346,346,Aleksandar Kolarov,36,Serbia,defender,1000000.0
+347,347,Matteo Darmian,32,Italy,defender,7000000.0
+348,348,Danilo D'Ambrosio,33,Italy,defender,3500000.0
+349,349,Marcelo Brozovic,29,Croatia,midfield,40000000.0
+350,350,Nicolò Barella,25,Italy,midfield,70000000.0
+351,351,Hakan Calhanoglu,28,Turkey,midfield,35000000.0
+352,352,Roberto Gagliardini,28,Italy,midfield,10000000.0
+353,353,Matías Vecino,30,Uruguay,midfield,5000000.0
+354,354,Arturo Vidal,35,Chile,midfield,2500000.0
+355,355,Denzel Dumfries,26,Netherlands,midfield,20000000.0
+356,356,Robin Gosens,27,Germany,midfield,35000000.0
+357,357,Ivan Perisic,33,Croatia,midfield,10000000.0
+358,358,Joaquín Correa,27,Argentina,attack,26000000.0
+359,359,Lautaro Martínez,24,Argentina,attack,70000000.0
+360,360,Edin Dzeko,36,Bosnia-Herzegovina,attack,4000000.0
+361,361,Alexis Sánchez,33,Chile,attack,3500000.0
+362,362,Felipe Caicedo,33,Ecuador,attack,2500000.0
+363,363,Aaron Ramsdale,24,England,goalkeeper,25000000.0
+364,364,Bernd Leno,30,Germany,goalkeeper,10000000.0
+365,365,Arthur Okonkwo,20,England,goalkeeper,1000000.0
+366,366,Ben White,24,England,defender,40000000.0
+367,367,Gabriel,24,Brazil,defender,30000000.0
+368,368,Rob Holding,26,England,defender,10000000.0
+369,369,Kieran Tierney,24,Scotland,defender,32000000.0
+370,370,Nuno Tavares,22,Portugal,defender,13000000.0
+371,371,Takehiro Tomiyasu,23,Japan,defender,25000000.0
+372,372,Cédric Soares,30,Portugal,defender,5000000.0
+373,373,Thomas Partey,28,Ghana,midfield,40000000.0
+374,374,Granit Xhaka,29,Switzerland,midfield,20000000.0
+375,375,Mohamed Elneny,29,Egypt,midfield,9000000.0
+376,376,Albert Sambi Lokonga,22,Belgium,midfield,16000000.0
+377,377,Bukayo Saka,20,England,midfield,65000000.0
+378,378,Martin Ødegaard,23,Norway,midfield,42000000.0
+379,379,Emile Smith Rowe,21,England,midfield,40000000.0
+380,380,Gabriel Martinelli,20,Brazil,attack,38000000.0
+381,381,Nicolas Pépé,27,Cote d'Ivoire,attack,30000000.0
+382,382,Alexandre Lacazette,31,France,attack,20000000.0
+383,383,Eddie Nketiah,23,England,attack,10000000.0
+384,384,Danny Ward,28,Wales,goalkeeper,6000000.0
+385,385,Kasper Schmeichel,35,Denmark,goalkeeper,4000000.0
+386,386,Eldin Jakupovic,37,Switzerland,goalkeeper,300000.0
+387,387,Caglar Söyüncü,26,Turkey,defender,45000000.0
+388,388,Wesley Fofana,21,France,defender,40000000.0
+389,389,Jannik Vestergaard,29,Denmark,defender,15000000.0
+390,390,Daniel Amartey,27,Ghana,defender,7000000.0
+391,391,Jonny Evans,34,Northern Ireland,defender,5000000.0
+392,392,Sam Hughes,25,England,defender, 
+393,393,Luke Thomas,20,England,defender,8000000.0
+394,394,Ryan Bertrand,32,England,defender,5000000.0
+395,395,Timothy Castagne,26,Belgium,defender,28000000.0
+396,396,Ricardo Pereira,28,Portugal,defender,25000000.0
+397,397,James Justin,24,England,defender,17000000.0
+398,398,Wilfred Ndidi,25,Nigeria,midfield,60000000.0
+399,399,Boubakary Soumaré,23,France,midfield,28000000.0
+400,400,Nampalys Mendy,29,Senegal,midfield,4000000.0
+401,401,Youri Tielemans,25,Belgium,midfield,55000000.0
+402,402,Hamza Choudhury,24,England,midfield,5000000.0
+403,403,Kiernan Dewsbury-Hall,23,England,midfield,5000000.0
+404,404,Marc Albrighton,32,England,midfield,2500000.0
+405,405,Harvey Barnes,24,England,midfield,32000000.0
+406,406,James Maddison,25,England,midfield,50000000.0
+407,407,Ademola Lookman,24,Nigeria,attack,9000000.0
+408,408,Ayoze Pérez,28,Spain,attack,12000000.0
+409,409,Patson Daka,23,Zambia,attack,22000000.0
+410,410,Kelechi Iheanacho,25,Nigeria,attack,20000000.0
+411,411,Jamie Vardy,35,England,attack,5000000.0
+412,412,Alex Meret,25,Italy,goalkeeper,12000000.0
+413,413,David Ospina,33,Colombia,goalkeeper,5000000.0
+414,414,Davide Marfella,22,Italy,goalkeeper,50000.0
+415,415,Kalidou Koulibaly,30,Senegal,defender,45000000.0
+416,416,Amir Rrahmani,28,Kosovo,defender,25000000.0
+417,417,Axel Tuanzebe,24,England,defender,8000000.0
+418,418,Juan Jesus,30,Brazil,defender,4000000.0
+419,419,Mário Rui,31,Portugal,defender,8000000.0
+420,420,Faouzi Ghoulam,31,Algeria,defender,1800000.0
+421,421,Giovanni Di Lorenzo,28,Italy,defender,25000000.0
+422,422,Kévin Malcuit,30,France,defender,2000000.0
+423,423,Alessandro Zanoli,21,Italy,defender,1000000.0
+424,424,André Zambo Anguissa,26,Cameroon,midfield,30000000.0
+425,425,Stanislav Lobotka,27,Slovakia,midfield,15000000.0
+426,426,Diego Demme,30,Germany,midfield,10000000.0
+427,427,Fabián Ruiz,26,Spain,midfield,55000000.0
+428,428,Eljif Elmas,22,North Macedonia,midfield,24000000.0
+429,429,Piotr Zielinski,28,Poland,midfield,50000000.0
+430,430,Lorenzo Insigne,30,Italy,attack,25000000.0
+431,431,Hirving Lozano,26,Mexico,attack,35000000.0
+432,432,Matteo Politano,28,Italy,attack,27000000.0
+433,433,Adam Ounas,25,Algeria,attack,8000000.0
+434,434,Victor Osimhen,23,Nigeria,attack,60000000.0
+435,435,Andrea Petagna,26,Italy,attack,13000000.0
+436,436,Dries Mertens,35,Belgium,attack,5000000.0
+437,437,Mike Maignan,26,France,goalkeeper,25000000.0
+438,438,Ciprian Tatarusanu,36,Romania,goalkeeper,600000.0
+439,439,Antonio Mirante,38,Italy,goalkeeper,500000.0
+440,440,Fikayo Tomori,24,England,defender,45000000.0
+441,441,Alessio Romagnoli,27,Italy,defender,20000000.0
+442,442,Pierre Kalulu,21,France,defender,17000000.0
+443,443,Simon Kjaer,33,Denmark,defender,8000000.0
+444,444,Matteo Gabbia,22,Italy,defender,7000000.0
+445,445,Theo Hernández,24,France,defender,48000000.0
+446,446,Fodé Ballo-Touré,25,Senegal,defender,5000000.0
+447,447,Davide Calabria,25,Italy,defender,25000000.0
+448,448,Alessandro Florenzi,31,Italy,defender,7000000.0
+449,449,Sandro Tonali,22,Italy,midfield,40000000.0
+450,450,Ismaël Bennacer,24,Algeria,midfield,30000000.0
+451,451,Tiemoué Bakayoko,27,France,midfield,13000000.0
+452,452,Franck Kessié,25,Cote d'Ivoire,midfield,45000000.0
+453,453,Rade Krunic,28,Bosnia-Herzegovina,midfield,7500000.0
+454,454,Brahim Díaz,22,Spain,midfield,22000000.0
+455,455,Daniel Maldini,20,Italy,midfield,2000000.0
+456,456,Rafael Leão,22,Portugal,attack,50000000.0
+457,457,Ante Rebic,28,Croatia,attack,22000000.0
+458,458,Alexis Saelemaekers,22,Belgium,attack,20000000.0
+459,459,Junior Messias,31,Brazil,attack,6500000.0
+460,460,Samu Castillejo,27,Spain,attack,4500000.0
+461,461,Zlatan Ibrahimovic,40,Sweden,attack,4000000.0
+462,462,Marko Lazetić,18,Serbia,attack,3000000.0
+463,463,Olivier Giroud,35,France,attack,2500000.0
+464,464,Emiliano Martínez,29,Argentina,goalkeeper,32000000.0
+465,465,Robin Olsen,32,Sweden,goalkeeper,2000000.0
+466,466,Jed Steer,29,England,goalkeeper,600000.0
+467,467,Tyrone Mings,29,England,defender,32000000.0
+468,468,Ezri Konsa,24,England,defender,25000000.0
+469,469,Calum Chambers,27,England,defender,12000000.0
+470,470,Kortney Hause,26,England,defender,5000000.0
+471,471,Lucas Digne,28,France,defender,30000000.0
+472,472,Matt Targett,26,England,defender,17000000.0
+473,473,Ashley Young,36,England,defender,1000000.0
+474,474,Matty Cash,24,Poland,defender,22000000.0
+475,475,Douglas Luiz,24,Brazil,midfield,35000000.0
+476,476,Marvelous Nakamba,28,Zimbabwe,midfield,7000000.0
+477,477,John McGinn,27,Scotland,midfield,30000000.0
+478,478,Jacob Ramsey,21,England,midfield,22000000.0
+479,479,Morgan Sanson,27,France,midfield,14000000.0
+480,480,Carney Chukwuemeka,18,England,midfield,2500000.0
+481,481,Conor Hourihane,31,Ireland,midfield,1800000.0
+482,482,Tim Iroegbunam,18,England,midfield, 
+483,483,Leon Bailey,24,Jamaica,attack,30000000.0
+484,484,Philippe Coutinho,29,Brazil,attack,20000000.0
+485,485,Jaden Philogene-Bidace,20,England,attack,3000000.0
+486,486,Emiliano Buendía,25,Argentina,attack,35000000.0
+487,487,Bertrand Traoré,26,Burkina Faso,attack,20000000.0
+488,488,Ollie Watkins,26,England,attack,35000000.0
+489,489,Danny Ings,29,England,attack,22000000.0
+490,490,Cameron Archer,20,England,attack,6000000.0
+491,491,Keinan Davis,24,England,attack,2500000.0
+492,0,Daniel Batz,31,Germany,goalkeeper,250000.0
+493,1,Marcel Johnen,19,Germany,goalkeeper,75000.0
+494,2,Jonas Hupe,22,Germany,goalkeeper,50000.0
+495,3,Lukas Boeder,25,Germany,defender,250000.0
+496,4,Steven Zellner,31,Germany,defender,200000.0
+497,5,Dominik Becker,22,Germany,defender,200000.0
+498,6,Boné Uaferro,30,Mozambique,defender,150000.0
+499,7,Bjarne Thoelke,30,Germany,defender,125000.0
+500,8,Pius Krätschmer,24,Germany,defender,250000.0
+501,9,Mario Müller,30,Germany,defender,150000.0
+502,10,Dominik Ernst,31,Germany,defender,225000.0
+503,11,Luca Kerber,20,Germany,midfield,400000.0
+504,12,Manuel Zeitz,31,Germany,midfield,250000.0
+505,13,Alexander Groiß,23,Germany,midfield,150000.0
+506,14,Dave Gnaase,25,Germany,midfield,225000.0
+507,15,Robin Scheu,27,Germany,midfield,250000.0
+508,16,Tobias Jänicke,33,Germany,midfield,200000.0
+509,17,Minos Gouras,23,Germany,attack,300000.0
+510,18,Jalen Hawkins,21,United States,attack,175000.0
+511,19,Marius Köhl,21,Germany,attack,50000.0
+512,20,Julian Günther-Schmidt,27,Germany,attack,325000.0
+513,21,Sebastian Jacob,28,Germany,attack,275000.0
+514,22,Adriano Grimaldi,31,Germany,attack,300000.0
+515,23,Justin Steinkötter,22,Germany,attack,175000.0
+516,24,Matheo Raab,23,Germany,goalkeeper,400000.0
+517,25,Avdo Spahic,25,Bosnia-Herzegovina,goalkeeper,225000.0
+518,26,Lorenz Otto,21,Germany,goalkeeper,50000.0
+519,27,Boris Tomiak,23,Germany,defender,400000.0
+520,28,Kevin Kraus,29,Germany,defender,400000.0
+521,29,Alexander Winkler,30,Germany,defender,225000.0
+522,30,Marvin Senger,22,Germany,defender,175000.0
+523,31,Maximilian Hippe,24,Germany,defender,175000.0
+524,32,Neal Gibs,20,Germany,defender,125000.0
+525,33,Dominik Schad,25,Germany,defender,225000.0
+526,34,Felix Götze,24,Germany,midfield,500000.0
+527,35,Julian Niehues,21,Germany,midfield,175000.0
+528,36,Marlon Ritter,27,Germany,midfield,500000.0
+529,37,Hikmet Ciftci,24,Turkey,midfield,300000.0
+530,38,René Klingenburg,28,Germany,midfield,250000.0
+531,39,Anas Bakhat,22,Germany,midfield,125000.0
+532,40,Jean Zimmer,28,Germany,midfield,500000.0
+533,41,Philipp Hercher,26,Germany,midfield,450000.0
+534,42,Hendrick Zuck,31,Germany,midfield,325000.0
+535,43,Nicolas Sessa,26,Germany,midfield,200000.0
+536,44,Mike Wunderlich,36,Germany,midfield,200000.0
+537,45,Anil Gözütok,21,Germany,midfield,75000.0
+538,46,Kenny Prince Redondo,27,Germany,attack,300000.0
+539,47,Simon Stehle,20,Germany,attack,150000.0
+540,48,Terrence Boyd,31,United States,attack,600000.0
+541,49,Daniel Hanslik,25,Germany,attack,325000.0
+542,50,Muhammed Kiprit,22,Turkey,attack,300000.0
+543,51,Lucas Röser,28,Germany,attack,200000.0
+544,52,Marvin Schwäbe,27,Germany,goalkeeper,3000000.0
+545,53,Timo Horn,29,Germany,goalkeeper,2800000.0
+546,54,Jonas Urbig,18,Germany,goalkeeper,300000.0
+547,55,Matthias Köbbing,25,Germany,goalkeeper,25000.0
+548,56,Luca Kilian,22,Germany,defender,4000000.0
+549,57,Timo Hübers,25,Germany,defender,3000000.0
+550,58,Julian Chabot,24,Germany,defender,2800000.0
+551,59,Bright Arrey-Mbi,19,Germany,defender,1300000.0
+552,60,Jonas Hector,32,Germany,defender,4000000.0
+553,61,Jannes Horn,25,Germany,defender,3000000.0
+554,62,Benno Schmitz,27,Germany,defender,2500000.0
+555,63,Kingsley Ehizibue,27,Nigeria,defender,1300000.0
+556,64,Ellyes Skhiri,27,Tunisia,midfield,13000000.0
+557,65,Dejan Ljubicic,24,Austria,midfield,6000000.0
+558,66,Salih Özcan,24,Turkey,midfield,7000000.0
+559,67,Niklas Hauptmann,25,Germany,midfield,500000.0
+560,68,Mathias Olesen,21,Luxembourg,midfield,200000.0
+561,69,Ondrej Duda,27,Slovakia,midfield,5000000.0
+562,70,Louis Schaub,27,Austria,midfield,1800000.0
+563,71,Tomas Ostrak,22,Czech Republic,midfield,750000.0
+564,72,Florian Kainz,29,Austria,attack,3500000.0
+565,73,Marvin Obuz,20,Germany,attack,300000.0
+566,74,Jan Thielmann,20,Germany,attack,5500000.0
+567,75,Kingsley Schindler,28,Germany,attack,800000.0
+568,76,Mark Uth,30,Germany,attack,3000000.0
+569,77,Sebastian Andersson,30,Sweden,attack,3000000.0
+570,78,Anthony Modeste,34,France,attack,3000000.0
+571,79,Tim Lemperle,20,Germany,attack,1000000.0
+572,80,Christian Mathenia,30,Germany,goalkeeper,800000.0
+573,81,Carl Klaus,28,Germany,goalkeeper,200000.0
+574,82,Patric Klandt,38,Germany,goalkeeper,50000.0
+575,83,Asger Sörensen,25,Denmark,defender,1200000.0
+576,84,Christopher Schindler,32,Germany,defender,1000000.0
+577,85,Florian Hübner,31,Germany,defender,700000.0
+578,86,Mario Suver,22,Croatia,defender,225000.0
+579,87,Noel Knothe,23,Germany,defender,200000.0
+580,88,Tim Handwerker,24,Germany,defender,1200000.0
+581,89,Konstantin Rausch,32,Russia,defender,250000.0
+582,90,Kilian Fischer,21,Germany,defender,350000.0
+583,91,Enrico Valentini,33,Germany,defender,350000.0
+584,92,Tom Krauß,20,Germany,midfield,4000000.0
+585,93,Johannes Geis,28,Germany,midfield,1600000.0
+586,94,Lino Tempelmann,23,Germany,midfield,1800000.0
+587,95,Fabian Nürnberger,22,Germany,midfield,1500000.0
+588,96,Taylan Duman,24,Germany,midfield,650000.0
+589,97,Tim Latteier,22,Germany,midfield,250000.0
+590,98,Mats Möller Daehli,27,Norway,midfield,2000000.0
+591,99,Jens Castrop,18,Germany,midfield,200000.0
+592,100,Nikola Dovedan,27,Austria,attack,800000.0
+593,101,Lukas Schleimer,22,Germany,attack,350000.0
+594,102,Erik Shuranov,20,Germany,attack,3500000.0
+595,103,Pascal Köpke,26,Germany,attack,700000.0
+596,104,Felix Lohkemper,27,Germany,attack,650000.0
+597,105,Dennis Borkowski,20,Germany,attack,600000.0
+598,106,Manuel Schäffler,33,Germany,attack,500000.0
+599,107,Paul-Philipp Besong,21,Germany,attack,100000.0
+600,108,Burak Capkinoglu,27,Turkey,goalkeeper,100000.0
+601,109,Özer Soylu,22,Turkey,goalkeeper,25000.0
+602,110,Yohan Roche,24,Benin,defender,575000.0
+603,111,Isaac Donkor,26,Ghana,defender,350000.0
+604,112,Evren Korkmaz,25,Turkey,defender,275000.0
+605,113,Ulas Zengin,24,Turkey,defender,100000.0
+606,114,Yigithan Güveli,24,Turkey,defender,100000.0
+607,115,Kadir Keles,34,Turkey,defender,50000.0
+608,116,Ismail Erdogan,28,Turkey,defender,200000.0
+609,117,Harun Kaya,21,Turkey,defender,75000.0
+610,118,Youssef Aït Bennasser,25,Morocco,midfield,875000.0
+611,119,Celil Yüksel,24,Turkey,midfield,700000.0
+612,120,Efe Tatli,19,Turkey,midfield,550000.0
+613,121,Thomas Bruns,30,Netherlands,midfield,500000.0
+614,122,Cem Özdemir,29,Turkey,midfield,100000.0
+615,123,Ibrahim Aksu,20,Turkey,midfield,75000.0
+616,124,Berkan Firat,23,Germany,midfield,75000.0
+617,125,Amadou Ciss,22,Senegal,attack,800000.0
+618,126,Firatcan Üzüm,22,Turkey,attack,375000.0
+619,127,Adolphe Belem,23,Burkina Faso,attack,75000.0
+620,128,Jordon Ibe,26,England,attack,400000.0
+621,129,Eren Karadag,22,Turkey,attack,350000.0
+622,130,Melih Isdil,20,Turkey,attack,25000.0
+623,131,Samuel Tetteh,25,Ghana,attack,675000.0
+624,132,Ahmethan Köse,25,Turkey,attack,300000.0
+625,133,Dimitrios Tairis,32,Greece,goalkeeper,250000.0
+626,134,Georgios Ladas,23,Greece,goalkeeper,75000.0
+627,135,Vangelis Karachalios,19,Greece,goalkeeper,25000.0
+628,136,Timotheos Tselepidis,26,Greece,defender,250000.0
+629,137,Junior Bakayoko,27,France,defender,175000.0
+630,138,Randy Mavinga,22,France,defender,125000.0
+631,139,Danny Lupano,21,Belgium,defender,25000.0
+632,140,Stavros Bounas,20,Greece,defender,25000.0
+633,141,Panagiotis Konstantinopoulos,26,Greece,defender,150000.0
+634,142,Panagiotis Tsagalidis,21,Greece,defender,125000.0
+635,143,Marcos Moser,24,Brazil,defender,125000.0
+636,144,Theodoros Karoutis,24,Greece,midfield,25000.0
+637,145,Nikolaos Anastasopoulos,29,Greece,midfield,250000.0
+638,146,Athanasios Papatolios,27,Greece,midfield,200000.0
+639,147,Matheus Alves,22,Brazil,midfield,100000.0
+640,148,Adriano Skenterai,22,Greece,midfield,125000.0
+641,149,Orestis Ademaj,21,Albania,midfield, 
+642,150,Charalampos Pavlidis,31,Greece,midfield,200000.0
+643,151,Andreas Tatos,33,Greece,midfield,200000.0
+644,152,Achilleas Gotsis,18,Greece,attack, 
+645,153,Frixos Grivas,21,Greece,attack,250000.0
+646,154,Sidney,21,Brazil,attack,25000.0
+647,155,Aristidis Kokkoris,23,Greece,attack,200000.0
+648,156,Walisson Nem,24,Brazil,attack,25000.0
+649,157,Hugo Borges,24,Brazil,attack,100000.0
+650,158,Giannis Loukinas,30,Greece,attack,300000.0
+651,159,Felype Hebert,24,Brazil,attack,150000.0
+652,160,Marko Markovski,36,Serbia,attack,150000.0
+653,161,Stefan Ortega,29,Germany,goalkeeper,6000000.0
+654,162,Stefanos Kapino,28,Greece,goalkeeper,700000.0
+655,163,Arne Schulz,19,Germany,goalkeeper,100000.0
+656,164,Amos Pieper,24,Germany,defender,7000000.0
+657,165,Joakim Nilsson,28,Sweden,defender,3500000.0
+658,166,Guilherme Ramos,24,Portugal,defender,2000000.0
+659,167,Andrés Andrade,23,Panama,defender,2000000.0
+660,168,George Bello,20,United States,defender,4000000.0
+661,169,Jacob Barrett Laursen,27,Denmark,defender,1700000.0
+662,170,Cédric Brunner,28,Switzerland,defender,3200000.0
+663,171,Nathan de Medina,24,Belgium,defender,750000.0
+664,172,Manuel Prietl,30,Austria,midfield,1800000.0
+665,173,Fabian Kunze,23,Germany,midfield,1000000.0
+666,174,Alessandro Schöpf,28,Austria,midfield,2500000.0
+667,175,Burak Ince,18,Turkey,midfield,2500000.0
+668,176,Sebastian Vasiliadis,24,Greece,midfield,2000000.0
+669,177,Gonzalo Castro,34,Germany,midfield,900000.0
+670,178,Masaya Okugawa,26,Japan,midfield,5000000.0
+671,179,Vladislav Cherny,18,Russia,midfield,100000.0
+672,180,Robin Hack,23,Germany,attack,2300000.0
+673,181,Patrick Wimmer,21,Austria,attack,8000000.0
+674,182,Bryan Lasme,23,France,attack,1800000.0
+675,183,Florian Krüger,23,Germany,attack,2500000.0
+676,184,Janni Serra,24,Germany,attack,1800000.0
+677,185,Fabian Klos,34,Germany,attack,400000.0
+678,186,Aaron Ramsdale,24,England,goalkeeper,25000000.0
+679,187,Bernd Leno,30,Germany,goalkeeper,10000000.0
+680,188,Arthur Okonkwo,20,England,goalkeeper,1000000.0
+681,189,Ben White,24,England,defender,40000000.0
+682,190,Gabriel,24,Brazil,defender,30000000.0
+683,191,Rob Holding,26,England,defender,10000000.0
+684,192,Kieran Tierney,24,Scotland,defender,32000000.0
+685,193,Nuno Tavares,22,Portugal,defender,13000000.0
+686,194,Takehiro Tomiyasu,23,Japan,defender,25000000.0
+687,195,Cédric Soares,30,Portugal,defender,5000000.0
+688,196,Thomas Partey,28,Ghana,midfield,40000000.0
+689,197,Granit Xhaka,29,Switzerland,midfield,20000000.0
+690,198,Mohamed Elneny,29,Egypt,midfield,9000000.0
+691,199,Albert Sambi Lokonga,22,Belgium,midfield,16000000.0
+692,200,Bukayo Saka,20,England,midfield,65000000.0
+693,201,Martin Ødegaard,23,Norway,midfield,42000000.0
+694,202,Emile Smith Rowe,21,England,midfield,40000000.0
+695,203,Gabriel Martinelli,20,Brazil,attack,38000000.0
+696,204,Nicolas Pépé,27,Cote d'Ivoire,attack,30000000.0
+697,205,Alexandre Lacazette,31,France,attack,20000000.0
+698,206,Eddie Nketiah,23,England,attack,10000000.0
+699,207,Rui Patrício,34,Portugal,goalkeeper,8000000.0
+700,208,Daniel Fuzato,24,Brazil,goalkeeper,800000.0
+701,209,Pietro Boer,20,Italy,goalkeeper,150000.0
+702,210,Roger Ibañez,23,Brazil,defender,25000000.0
+703,211,Gianluca Mancini,26,Italy,defender,25000000.0
+704,212,Marash Kumbulla,22,Albania,defender,18000000.0
+705,213,Chris Smalling,32,England,defender,8000000.0
+706,214,Leonardo Spinazzola,29,Italy,defender,20000000.0
+707,215,Matías Viña,24,Uruguay,defender,9000000.0
+708,216,Rick Karsdorp,27,Netherlands,defender,13000000.0
+709,217,Davide Santon,31,Italy,defender,800000.0
+710,218,Bryan Cristante,27,Italy,midfield,20000000.0
+711,219,Amadou Diawara,24,Guinea,midfield,8000000.0
+712,220,Ebrima Darboe,20,The Gambia,midfield,2000000.0
+713,221,Filippo Tripi,20,Italy,midfield,300000.0
+714,222,Jordan Veretout,29,France,midfield,22000000.0
+715,223,Sérgio Oliveira,30,Portugal,midfield,13000000.0
+716,224,Edoardo Bove,20,Italy,midfield,800000.0
+717,225,Ainsley Maitland-Niles,24,England,midfield,12000000.0
+718,226,Nicola Zalewski,20,Poland,midfield,2500000.0
+719,227,Lorenzo Pellegrini,25,Italy,midfield,45000000.0
+720,228,Henrikh Mkhitaryan,33,Armenia,midfield,10000000.0
+721,229,Stephan El Shaarawy,29,Italy,attack,7000000.0
+722,230,Nicolò Zaniolo,22,Italy,attack,33000000.0
+723,231,Carles Pérez,24,Spain,attack,6000000.0
+724,232,Tammy Abraham,24,England,attack,45000000.0
+725,233,Eldor Shomurodov,26,Uzbekistan,attack,10000000.0
+726,234,Felix Afena-Gyan,19,Ghana,attack,5000000.0
+727,235,Jan Oblak,29,Slovenia,goalkeeper,60000000.0
+728,236,Benjamin Lecomte,31,France,goalkeeper,7500000.0
+729,237,José María Giménez,27,Uruguay,defender,50000000.0
+730,238,Mario Hermoso,26,Spain,defender,25000000.0
+731,239,Stefan Savic,31,Montenegro,defender,20000000.0
+732,240,Felipe,33,Brazil,defender,7000000.0
+733,241,Renan Lodi,24,Brazil,defender,25000000.0
+734,242,Reinildo Mandava,28,Mozambique,defender,15000000.0
+735,243,Sime Vrsaljko,30,Croatia,defender,5000000.0
+736,244,Geoffrey Kondogbia,29,Central African Republic,midfield,15000000.0
+737,245,Marcos Llorente,27,Spain,midfield,60000000.0
+738,246,Rodrigo de Paul,28,Argentina,midfield,40000000.0
+739,247,Koke,30,Spain,midfield,35000000.0
+740,248,Daniel Wass,33,Denmark,midfield,6000000.0
+741,249,Héctor Herrera,32,Mexico,midfield,5000000.0
+742,250,Thomas Lemar,26,France,midfield,40000000.0
+743,251,Yannick Carrasco,28,Belgium,attack,40000000.0
+744,252,João Félix,22,Portugal,attack,70000000.0
+745,253,Antoine Griezmann,31,France,attack,50000000.0
+746,254,Ángel Correa,27,Argentina,attack,45000000.0
+747,255,Matheus Cunha,23,Brazil,attack,30000000.0
+748,256,Luis Suárez,35,Uruguay,attack,10000000.0
+749,257,Patrick Pentz,25,Austria,goalkeeper,1700000.0
+750,258,Ammar Helac,23,Austria,goalkeeper,250000.0
+751,259,Mirko Kos,25,Austria,goalkeeper,200000.0
+752,260,Lukas Wedl,26,Austria,goalkeeper,75000.0
+753,261,Lukas Mühl,25,Germany,defender,1800000.0
+754,262,Lucas Galvão,30,Brazil,defender,600000.0
+755,263,Johannes Handl,24,Austria,defender,600000.0
+756,264,Christian Schoissengeyr,27,Dominican Republic,defender,250000.0
+757,265,Esad Bejic,21,Austria,defender,175000.0
+758,266,Ziad El Sheiwi,18,Austria,defender,400000.0
+759,267,Markus Suttner,35,Austria,defender,400000.0
+760,268,Filip Antovski,21,North Macedonia,defender,200000.0
+761,269,Georg Teigl,31,Austria,defender,500000.0
+762,270,Marvin Martins,27,Luxembourg,defender,500000.0
+763,271,Leonardo Ivkic,19,Austria,defender,400000.0
+764,272,Eric Martel,20,Germany,midfield,3000000.0
+765,273,Vesel Demaku,22,Austria,midfield,800000.0
+766,274,Florian Wustinger,18,Austria,midfield,250000.0
+767,275,Matthias Braunöder,20,Austria,midfield,3000000.0
+768,276,Niels Hahn,21,Austria,midfield,300000.0
+769,277,Dario Kreiker,19,Austria,midfield,250000.0
+770,278,Aleksandar Jukic,21,Austria,midfield,1300000.0
+771,279,Manfred Fischer,26,Austria,midfield,900000.0
+772,280,Dominik Fitz,22,Austria,midfield,800000.0
+773,281,Alexander Grünwald,33,Austria,midfield,200000.0
+774,282,Can Keles,20,Austria,attack,700000.0
+775,283,Martin Pecar,19,Slovenia,attack,250000.0
+776,284,Tristan Hammond,19,Australia,attack,200000.0
+777,285,Anouar El Moukhantir,24,Germany,attack,100000.0
+778,286,Muharem Huskovic,19,Austria,attack,800000.0
+779,287,Marco Djuricin,29,Austria,attack,800000.0
+780,288,Noah Ohio,19,Netherlands,attack,700000.0
+781,289,Romeo Vucic,19,Austria,attack,400000.0
+782,290,Luca Unbehaun,21,Germany,goalkeeper,1500000.0
+783,291,Stefan Drljaca,23,Germany,goalkeeper,200000.0
+784,292,Jan Reckert,25,Germany,goalkeeper,50000.0
+785,293,Soumaïla Coulibaly,18,France,defender,750000.0
+786,294,Lennard Maloney,22,United States,defender,350000.0
+787,295,Antonios Papadopoulos,22,Germany,defender,350000.0
+788,296,Kolbeinn Birgir Finnsson,22,Iceland,defender,200000.0
+789,297,Niklas Dams,32,Germany,defender,200000.0
+790,298,Abdoulaye Kamara,17,Guinea,midfield,1000000.0
+791,299,Franz Pfanne,27,Germany,midfield,250000.0
+792,300,Kamal Bafounta,20,France,midfield,75000.0
+793,301,Dennis Lütke-Frie,19,Germany,midfield,200000.0
+794,302,Marco Hober,26,Germany,midfield,150000.0
+795,303,Christian Viet,23,Germany,midfield,300000.0
+796,304,Haymenn Bah-Traoré,24,Togo,midfield,100000.0
+797,305,Guille Bueno,19,Spain,midfield,200000.0
+798,306,Immanuel Pherai,21,Netherlands,midfield,700000.0
+799,307,Berkan Taz,23,Germany,midfield,400000.0
+800,308,Göktan Gürpüz,19,Germany,midfield,250000.0
+801,309,Ole Pohlmann,21,Germany,attack,200000.0
+802,310,Marco Pasalic,21,Croatia,attack,275000.0
+803,311,Bradley Fink,19,Switzerland,attack,750000.0
+804,312,Justin Njinmah,21,Germany,attack,400000.0
+805,313,Richmond Tachie,23,Germany,attack,325000.0
+806,314,Ted Tattermusch,21,Germany,attack,150000.0
+807,315,Timo Bornemann,21,Germany,attack,150000.0
+808,316,Moritz Broschinski,21,Germany,attack,125000.0
+809,317,Yann Sommer,33,Switzerland,goalkeeper,5000000.0
+810,318,Tobias Sippel,34,Germany,goalkeeper,400000.0
+811,319,Jan Olschowsky,20,Germany,goalkeeper,300000.0
+812,320,Jonas Kersken,21,Germany,goalkeeper,100000.0
+813,321,Matthias Ginter,28,Germany,defender,24000000.0
+814,322,Nico Elvedi,25,Switzerland,defender,23000000.0
+815,323,Marvin Friedrich,26,Germany,defender,10000000.0
+816,324,Jordan Beyer,22,Germany,defender,3000000.0
+817,325,Tony Jantschke,32,Germany,defender,1200000.0
+818,326,Mamadou Doucouré,24,France,defender,100000.0
+819,327,Ramy Bensebaini,27,Algeria,defender,17000000.0
+820,328,Luca Netz,19,Germany,defender,5000000.0
+821,329,Joe Scally,19,United States,defender,8000000.0
+822,330,Stefan Lainer,29,Austria,defender,6000000.0
+823,331,Christoph Kramer,31,Germany,midfield,4000000.0
+824,332,Florian Neuhaus,25,Germany,midfield,22000000.0
+825,333,Kouadio Koné,21,France,midfield,15000000.0
+826,334,Lászlo Bénes,24,Slovakia,midfield,3500000.0
+827,335,Keanan Bennetts,23,England,midfield,1300000.0
+828,336,Lars Stindl,33,Germany,midfield,3500000.0
+829,337,Marcus Thuram,24,France,attack,20000000.0
+830,338,Jonas Hofmann,29,Germany,attack,16000000.0
+831,339,Patrick Herrmann,31,Germany,attack,2500000.0
+832,340,Conor Noß,21,Ireland,attack,400000.0
+833,341,Alassane Plea,29,France,attack,15000000.0
+834,342,Breel Embolo,25,Switzerland,attack,14000000.0
+835,343,Jesse Joronen,29,Finland,goalkeeper,1500000.0
+836,344,Simone Perilli,27,Italy,goalkeeper,200000.0
+837,345,Lorenzo Andrenacci,27,Italy,goalkeeper,150000.0
+838,346,Paolo Prandini,19,Italy,goalkeeper,50000.0
+839,347,Andrea Cistana,25,Italy,defender,4000000.0
+840,348,Andrea Papetti,19,Italy,defender,2000000.0
+841,349,Massimiliano Mangraviti,24,Italy,defender,1000000.0
+842,350,Davide Adorni,29,Italy,defender,800000.0
+843,351,Marko Pajac,29,Croatia,defender,800000.0
+844,352,Matthieu Huard,24,France,defender,550000.0
+845,353,Fran Karacic,26,Australia,defender,1700000.0
+846,354,Stefano Sabelli,29,Italy,defender,1500000.0
+847,355,Tom van de Looi,22,Netherlands,midfield,1300000.0
+848,356,Valon Behrami,37,Switzerland,midfield,400000.0
+849,357,Lorenzo Andreoli,21,Italy,midfield,150000.0
+850,358,Dimitri Bisoli,28,Italy,midfield,2200000.0
+851,359,Filip Jagiello,24,Poland,midfield,2000000.0
+852,360,Federico Proia,26,Italy,midfield,1500000.0
+853,361,Massimo Bertagnoli,23,Italy,midfield,1400000.0
+854,362,Giacomo Olzer,21,Italy,midfield,300000.0
+855,363,Matteo Tramoni,22,France,attack,2200000.0
+856,364,Mehdi Léris,24,France,attack,2000000.0
+857,365,Nikolas Spalek,25,Slovakia,attack,1200000.0
+858,366,Florian Ayé,25,France,attack,2300000.0
+859,367,Riad Bajić,28,Bosnia-Herzegovina,attack,2000000.0
+860,368,Stefano Moreo,28,Italy,attack,800000.0
+861,369,Flavio Bianchi,22,Italy,attack,800000.0
+862,370,Rodrigo Palacio,40,Argentina,attack,400000.0
+863,371,Erhan Erentürk,27,Turkey,goalkeeper,425000.0
+864,372,Canberk Yurdakul,21,Turkey,goalkeeper,225000.0
+865,373,Deniz Aydin,21,Turkey,goalkeeper,100000.0
+866,374,Nicolas Zalazar,25,Argentina,defender,325000.0
+867,375,Furkan Ünver,25,Turkey,defender,200000.0
+868,376,Kerem Kök,18,Turkey,defender,75000.0
+869,377,Onur Atasayar,27,Turkey,defender,300000.0
+870,378,Abdullah Tazgel,19,Turkey,defender,75000.0
+871,379,Mehmet Erdem Ugurlu,33,Turkey,defender,25000.0
+872,380,Mert Yilmaz,23,Turkey,defender,475000.0
+873,381,Ugur Kaan Yildiz,19,Turkey,defender,100000.0
+874,382,Kubilay Sönmez,27,Turkey,midfield,300000.0
+875,383,Tugbey Akgün,19,Turkey,midfield,400000.0
+876,384,Ismail Yüksek,23,Turkey,midfield,375000.0
+877,385,Burak Altiparmak,31,Germany,midfield,250000.0
+878,386,Ramazan Keskin,23,Turkey,midfield,225000.0
+879,387,Bilal Güney,18,Turkey,midfield,25000.0
+880,388,Elton Acolatse,26,Netherlands,attack,400000.0
+881,389,Hasan Ayaroglu,27,Turkey,attack,275000.0
+882,390,Hasan Basri Ünal,19,Turkey,attack,50000.0
+883,391,Massimo Bruno,28,Belgium,attack,650000.0
+884,392,Namiq Alasgarov,27,Azerbaijan,attack,575000.0
+885,393,Thievy Bifouma,30,Congo,attack,300000.0
+886,394,Cenk Sahin,27,Turkey,attack,200000.0
+887,395,Yusuf Türk,24,Turkey,attack,75000.0
+888,396,Berat Altindis,20,Turkey,attack,500000.0
+889,397,João Pedro,25,Portugal,attack,400000.0
+890,398,Eren Güler,19,Turkey,attack,200000.0
+891,399,Jakub Jakubov,33,Czech Republic,goalkeeper,125000.0
+892,400,Isa Dogan,22,Germany,goalkeeper,50000.0
+893,401,David Wunsch,19,Germany,goalkeeper, 
+894,402,Tim Campulka,23,Germany,defender,100000.0
+895,403,Jovan Vidovic,33,Slovenia,defender,75000.0
+896,404,Robert Zickert,32,Germany,defender,75000.0
+897,405,Roman Eppendorfer,19,Germany,defender,50000.0
+898,406,Aschti Osso,20,Syria,defender,25000.0
+899,407,Niclas Walther,19,Germany,defender,100000.0
+900,408,Nils Köhler,28,Germany,defender,75000.0
+901,409,Lukas Aigner,26,Germany,defender,100000.0
+902,410,Felix Schimmel,22,Germany,defender,75000.0
+903,411,Dominik Pelivan,25,Germany,midfield,100000.0
+904,412,Okan Kurt,27,Germany,midfield,100000.0
+905,413,Riccardo Grym,22,Germany,midfield,50000.0
+906,414,Tobias Müller,29,Germany,midfield,125000.0
+907,415,Christian Bickel,31,Germany,midfield,150000.0
+908,416,Stanley Keller,20,Germany,midfield,50000.0
+909,417,Furkan Kircicek,25,Germany,attack,125000.0
+910,418,Max Roscher,18,Germany,attack,75000.0
+911,419,Kevin Freiberger,33,Germany,attack,100000.0
+912,420,Benjika Caciel,20,Germany,attack,75000.0
+913,421,Kilian Pagliuca,25,Switzerland,attack,150000.0
+914,422,Felix Brügmann,29,Germany,attack,125000.0
+915,423,Simon Noah Roscher,20,Germany,attack,50000.0
+916,424,Kelle Roos,30,Netherlands,goalkeeper,500000.0
+917,425,Ryan Allsop,29,England,goalkeeper,500000.0
+918,426,Eiran Cashin,20,Ireland,defender,500000.0
+919,427,Richard Stearman,34,England,defender,250000.0
+920,428,Curtis Davies,37,England,defender,250000.0
+921,429,Lee Buchanan,21,England,defender,3500000.0
+922,430,Craig Forsyth,33,Scotland,defender,300000.0
+923,431,Festy Ebosele,19,Ireland,defender,3500000.0
+924,432,Nathan Byrne,29,England,defender,1200000.0
+925,433,Krystian Bielik,24,Poland,midfield,4000000.0
+926,434,Max Bird,21,England,midfield,4000000.0
+927,435,Liam Thompson,20,England,midfield,600000.0
+928,436,Jason Knight,21,Ireland,midfield,5000000.0
+929,437,Louie Sibley,20,England,midfield,3000000.0
+930,438,Louie Watson,20,Ireland,midfield,400000.0
+931,439,Ravel Morrison,29,Jamaica,midfield,500000.0
+932,440,Tom Lawrence,28,Wales,attack,5000000.0
+933,441,Malcolm Ebiowei,18,England,attack,1000000.0
+934,442,Jack Stretton,20,Scotland,attack,300000.0
+935,443,Colin Kazim-Richards,35,Turkey,attack,250000.0
+936,444,Jasmin Fejzic,36,Bosnia-Herzegovina,goalkeeper,250000.0
+937,445,Yannik Bangsow,24,Germany,goalkeeper,75000.0
+938,446,Julian Bauer,22,Germany,goalkeeper,25000.0
+939,447,Lennart Schulze Kökelsum,20,Germany,goalkeeper,25000.0
+940,448,Brian Behrendt,30,Germany,defender,500000.0
+941,449,Michael Schultz,29,Germany,defender,300000.0
+942,450,Philipp Strompf,24,Germany,defender,175000.0
+943,451,Niko Kijewski,26,Germany,defender,300000.0
+944,452,Lasse Schlüter,30,Germany,defender,200000.0
+945,453,Jannis Kleeberg,20,Germany,defender,50000.0
+946,454,Jan-Hendrik Marx,27,Germany,defender,300000.0
+947,455,Luis Görlich,22,Germany,defender,125000.0
+948,456,Jannis Nikolaou,28,Germany,midfield,550000.0
+949,457,Robin Krauße,28,Germany,midfield,400000.0
+950,458,Danilo Wiebe,28,Germany,midfield,275000.0
+951,459,Iba May,23,Germany,midfield,125000.0
+952,460,Bryan Henning,27,Germany,midfield,450000.0
+953,461,Jomaine Consbruch,20,Germany,midfield,450000.0
+954,462,Martin Kobylanski,28,Poland,midfield,400000.0
+955,463,Yari Otto,23,Germany,midfield,200000.0
+956,464,Enrique Peña Zauner,22,Venezuela,attack,275000.0
+957,465,Maurice Multhaup,25,Germany,attack,400000.0
+958,466,Fabrice Hartmann,21,Germany,attack,300000.0
+959,467,Lion Lauberbach,24,Germany,attack,450000.0
+960,468,Luc Ihorst,22,Germany,attack,350000.0
+961,469,Sebastian Müller,21,Germany,attack,350000.0
+962,470,Benjamin Girth,30,Germany,attack,250000.0
+963,471,Kevin Trapp,31,Germany,goalkeeper,6500000.0
+964,472,Diant Ramaj,20,Germany,goalkeeper,500000.0
+965,473,Jens Grahl,33,Germany,goalkeeper,200000.0
+966,474,Jannik Horz,19,Germany,goalkeeper,200000.0
+967,475,Evan Ndicka,22,France,defender,28000000.0
+968,476,Tuta,22,Brazil,defender,10000000.0
+969,477,Martin Hinteregger,29,Austria,defender,9000000.0
+970,478,Christopher Lenz,27,Germany,defender,5000000.0
+971,479,Jan Schröder,19,Germany,defender,200000.0
+972,480,Danny da Costa,28,Germany,defender,3500000.0
+973,481,Almamy Touré,26,Mali,defender,2500000.0
+974,482,Erik Durm,30,Germany,defender,2000000.0
+975,483,Timothy Chandler,32,United States,defender,1500000.0
+976,484,Kristijan Jakic,25,Croatia,midfield,7500000.0
+977,485,Stefan Ilsanker,33,Austria,midfield,1500000.0
+978,486,Makoto Hasebe,38,Japan,midfield,800000.0
+979,487,Djibril Sow,25,Switzerland,midfield,17500000.0
+980,488,Ajdin Hrustic,25,Australia,midfield,3000000.0
+981,489,Sebastian Rode,31,Germany,midfield,2500000.0
+982,490,Filip Kostic,29,Serbia,midfield,20000000.0
+983,491,Daichi Kamada,25,Japan,midfield,22000000.0
+984,492,Jesper Lindström,22,Denmark,midfield,14000000.0
+985,493,Aymen Barkok,24,Morocco,midfield,2000000.0
+986,494,Antonio Foti,18,Cyprus,midfield,400000.0
+987,495,Gianluca Schäfer,19,Germany,attack,150000.0
+988,496,Jens Petter Hauge,22,Norway,attack,8000000.0
+989,497,Ansgar Knauff,20,Germany,attack,5000000.0
+990,498,Rafael Borré,26,Colombia,attack,17000000.0
+991,499,Gonçalo Paciência,27,Portugal,attack,3500000.0
+992,500,Sam Lammers,25,Netherlands,attack,3000000.0
+993,501,Ragnar Ache,23,Germany,attack,1800000.0
+994,502,Enrique Herrero García,17,Spain,attack,300000.0
+995,503,Toni Stahl,22,Germany,goalkeeper,100000.0
+996,504,Till Brinkmann,26,Germany,goalkeeper,50000.0
+997,505,Elias Bethke,19,Germany,goalkeeper,25000.0
+998,506,Corbinian Moye,18,Germany,goalkeeper, 
+999,507,Jonas Hildebrandt,25,Germany,defender,150000.0
+1000,508,Shawn Kauter,26,Germany,defender,100000.0
+1001,509,Jan Koch,26,Germany,defender,100000.0
+1002,510,Jonas Böhmert,18,Germany,defender,75000.0
+1003,511,Matthias Rahn,32,Germany,defender,50000.0
+1004,512,Edgar Kaizer,18,Germany,defender, 
+1005,513,Axel Borgmann,27,Germany,defender,175000.0
+1006,514,Paul Wagner,18,Germany,defender, 
+1007,515,Joshua Bitter,25,Germany,defender,150000.0
+1008,516,Tobias Hasse,26,Germany,defender,75000.0
+1009,517,Tobias Eisenhuth,20,Germany,midfield,150000.0
+1010,518,Niclas Erlbeck,29,Germany,midfield,75000.0
+1011,519,Jonas Hofmann,25,Germany,midfield,125000.0
+1012,520,Joshua Putze,27,Germany,midfield,100000.0
+1013,521,Arnel Kujovic,20,Montenegro,midfield,100000.0
+1014,522,Janis Juckel,17,Germany,midfield, 
+1015,523,Maximilian Pronichev,24,Russia,midfield,175000.0
+1016,524,Niklas Geisler,21,Germany,midfield,50000.0
+1017,525,Nikos Zografakis,22,Greece,attack,150000.0
+1018,526,Max Kremer,32,Germany,attack,75000.0
+1019,527,Theo Harz,18,Germany,attack,50000.0
+1020,528,Malcolm Badu,24,Germany,attack,125000.0
+1021,529,Luca Schulz,23,Germany,attack,100000.0
+1022,530,Janik Mäder,25,Germany,attack,50000.0
+1023,531,Erik Engelhardt,24,Germany,attack,150000.0
+1024,532,Heinz Lindner,31,Austria,goalkeeper,1500000.0
+1025,533,Djordje Nikolic,25,Serbia,goalkeeper,500000.0
+1026,534,Felix Gebhardt,20,Germany,goalkeeper,100000.0
+1027,535,Strahinja Pavlovic,21,Serbia,defender,8000000.0
+1028,536,Andy Pelmard,22,France,defender,4000000.0
+1029,537,Nasser Djiga,19,Burkina Faso,defender,500000.0
+1030,538,Albian Hajdari,19,Switzerland,defender,300000.0
+1031,539,Noah Katterbach,21,Germany,defender,2500000.0
+1032,540,Raoul Petretta,25,Italy,defender,700000.0
+1033,541,Andrea Padula,26,Italy,defender,500000.0
+1034,542,Tomás Tavares,21,Portugal,defender,3500000.0
+1035,543,Sergio López,23,Spain,defender,1000000.0
+1036,544,Michael Lang,31,Switzerland,defender,600000.0
+1037,545,Fabian Frei,33,Switzerland,midfield,500000.0
+1038,546,Taulant Xhaka,31,Albania,midfield,300000.0
+1039,547,Pajtim Kasami,30,Switzerland,midfield,1000000.0
+1040,548,Wouter Burger,21,Netherlands,midfield,700000.0
+1041,549,Liam Chipperfield,18,Switzerland,midfield,200000.0
+1042,550,Emmanuel Essiam,18,Ghana,midfield,50000.0
+1043,551,Valentin Stocker,33,Switzerland,midfield,600000.0
+1044,552,Darian Males,21,Switzerland,midfield,3500000.0
+1045,553,Matías Palacios,20,Argentina,midfield,3500000.0
+1046,554,Joelson Fernandes,19,Portugal,attack,3500000.0
+1047,555,Liam Millar,22,Canada,attack,3000000.0
+1048,556,Dan Ndoye,21,Switzerland,attack,4000000.0
+1049,557,Fedor Chalov,24,Russia,attack,8500000.0
+1050,558,Sebastiano Esposito,19,Italy,attack,6000000.0
+1051,559,Ádám Szalai,34,Hungary,attack,800000.0
+1052,560,Andrin Hunziker,19,Switzerland,attack,100000.0
+1053,561,Manuel Neuer,36,Germany,goalkeeper,14000000.0
+1054,562,Sven Ulreich,33,Germany,goalkeeper,900000.0
+1055,563,Christian Früchtl,22,Germany,goalkeeper,600000.0
+1056,564,Lucas Hernández,26,France,defender,50000000.0
+1057,565,Dayot Upamecano,23,France,defender,45000000.0
+1058,566,Niklas Süle,26,Germany,defender,35000000.0
+1059,567,Tanguy Nianzou,19,France,defender,9000000.0
+1060,568,Alphonso Davies,21,Canada,defender,70000000.0
+1061,569,Omar Richards,24,England,defender,7000000.0
+1062,570,Benjamin Pavard,26,France,defender,30000000.0
+1063,571,Josip Stanisic,22,Croatia,defender,4000000.0
+1064,572,Bouna Sarr,30,Senegal,defender,3000000.0
+1065,573,Joshua Kimmich,27,Germany,midfield,85000000.0
+1066,574,Marc Roca,25,Spain,midfield,7000000.0
+1067,575,Leon Goretzka,27,Germany,midfield,70000000.0
+1068,576,Marcel Sabitzer,28,Austria,midfield,22000000.0
+1069,577,Corentin Tolisso,27,France,midfield,15000000.0
+1070,578,Jamal Musiala,19,Germany,midfield,55000000.0
+1071,579,Paul Wanner,16,Germany,midfield,2000000.0
+1072,580,Malik Tillman,20,United States,midfield,1500000.0
+1073,581,Leroy Sané,26,Germany,attack,70000000.0
+1074,582,Serge Gnabry,26,Germany,attack,70000000.0
+1075,583,Kingsley Coman,25,France,attack,60000000.0
+1076,584,Thomas Müller,32,Germany,attack,25000000.0
+1077,585,Robert Lewandowski,33,Poland,attack,50000000.0
+1078,586,Eric Maxim Choupo-Moting,33,Cameroon,attack,3500000.0
+1079,587,Christian Früchtl,22,Germany,goalkeeper,600000.0
+1080,588,Lukas Schneller,20,Germany,goalkeeper,200000.0
+1081,589,Manuel Kainz,20,Germany,goalkeeper,100000.0
+1082,590,Johannes Schenk,19,Germany,goalkeeper,75000.0
+1083,591,Jakob Mayer,20,Germany,goalkeeper,75000.0
+1084,592,Jamie Lawrence,19,Germany,defender,800000.0
+1085,593,Justin Janitzek,18,Germany,defender,300000.0
+1086,594,Nicolas Feldhahn,35,Germany,defender,125000.0
+1087,595,Gabriel Marusic,19,Croatia,defender, 
+1088,596,Liam Morrison,19,Scotland,defender, 
+1089,597,Angelo Brückner,19,Germany,defender,350000.0
+1090,598,Leon Fust,19,Germany,defender,150000.0
+1091,599,David Herold,19,Germany,defender, 
+1092,600,Jonas Kehl,21,Germany,defender,75000.0
+1093,601,Nick Salihamidzic,19,Bosnia-Herzegovina,defender, 
+1094,602,Taylor Booth,21,United States,midfield,1000000.0
+1095,603,Eyüp Aydin,17,Turkey,midfield,800000.0
+1096,604,Maximilian Welzmüller,32,Germany,midfield,175000.0
+1097,605,Torben Rhein,19,Germany,midfield,1200000.0
+1098,606,Timo Kern,32,Germany,midfield,225000.0
+1099,607,Emilian Metu,19,Austria,midfield,150000.0
+1100,608,Moritz Mosandl,19,Germany,midfield,100000.0
+1101,609,Hyun-ju Lee,19,"Korea, South",midfield,50000.0
+1102,610,Malik Tillman,20,United States,midfield,1500000.0
+1103,611,Christopher Scott,19,Germany,midfield,1200000.0
+1104,612,Jahn Herrmann,21,Germany,midfield,100000.0
+1105,613,Younes Aitamer,19,Algeria,attack, 
+1106,614,Gabriel Vidovic,18,Croatia,attack,2000000.0
+1107,615,Armindo Sieb,19,Germany,attack,1500000.0
+1108,616,Lucas Copado,18,Germany,attack,500000.0
+1109,617,Yusuf Kabadayi,18,Germany,attack,300000.0
+1110,618,Jordan Pickford,28,England,goalkeeper,25000000.0
+1111,619,Asmir Begovic,34,Bosnia-Herzegovina,goalkeeper,1000000.0
+1112,620,Andy Lonergan,38,England,goalkeeper,250000.0
+1113,621,Michael Keane,29,England,defender,22000000.0
+1114,622,Ben Godfrey,24,England,defender,22000000.0
+1115,623,Yerry Mina,27,Colombia,defender,20000000.0
+1116,624,Mason Holgate,25,England,defender,18000000.0
+1117,625,Jarrad Branthwaite,19,England,defender,3000000.0
+1118,626,Vitaliy Mykolenko,23,Ukraine,defender,18000000.0
+1119,627,Nathan Patterson,20,Scotland,defender,8000000.0
+1120,628,Jonjoe Kenny,25,England,defender,4500000.0
+1121,629,Seamus Coleman,33,Ireland,defender,3500000.0
+1122,630,Allan,31,Brazil,midfield,18000000.0
+1123,631,Abdoulaye Doucouré,29,Mali,midfield,25000000.0
+1124,632,André Gomes,28,Portugal,midfield,20000000.0
+1125,633,Tom Davies,23,England,midfield,18000000.0
+1126,634,Fabian Delph,32,England,midfield,3000000.0
+1127,635,Dele Alli,26,England,midfield,22000000.0
+1128,636,Gylfi Sigurdsson,32,Iceland,midfield, 
+1129,637,Demarai Gray,25,England,attack,22000000.0
+1130,638,Alex Iwobi,26,Nigeria,attack,18000000.0
+1131,639,Anthony Gordon,21,England,attack,16000000.0
+1132,640,Anwar El Ghazi,27,Netherlands,attack,10000000.0
+1133,641,Andros Townsend,30,England,attack,7000000.0
+1134,642,Richarlison,25,Brazil,attack,50000000.0
+1135,643,Dominic Calvert-Lewin,25,England,attack,42000000.0
+1136,644,Salomón Rondón,32,Venezuela,attack,4000000.0
+1137,645,Cenk Tosun,30,Turkey,attack,2500000.0
+1138,646,Markus Kolke,31,Germany,goalkeeper,400000.0
+1139,647,Ben Voll,21,Germany,goalkeeper,150000.0
+1140,648,Luis Klatte,22,Germany,goalkeeper,100000.0
+1141,649,Timo Becker,25,Germany,defender,450000.0
+1142,650,Damian Roßbach,29,Germany,defender,400000.0
+1143,651,Thomas Meißner,31,Germany,defender,400000.0
+1144,652,Julian Riedel,30,Germany,defender,300000.0
+1145,653,Ryan Malone,29,United States,defender,275000.0
+1146,654,Jonathan Meier,22,Germany,defender,600000.0
+1147,655,Lukas Scherff,25,Germany,defender,275000.0
+1148,656,Nico Neidhart,27,Germany,defender,450000.0
+1149,657,Calogero Rizzuto,30,Germany,defender,450000.0
+1150,658,Simon Rhein,24,Germany,midfield,600000.0
+1151,659,Lukas Fröde,27,Germany,midfield,500000.0
+1152,660,Björn Rother,25,Germany,midfield,275000.0
+1153,661,Svante Ingelsson,23,Sweden,midfield,600000.0
+1154,662,Hanno Behrens,32,Germany,midfield,550000.0
+1155,663,Baxter Bahn,29,Germany,midfield,350000.0
+1156,664,Tobias Schwede,28,Germany,midfield,225000.0
+1157,665,Nils Fröling,22,Sweden,attack,600000.0
+1158,666,Haris Duljevic,28,Bosnia-Herzegovina,attack,500000.0
+1159,667,Kevin Schumacher,24,Germany,attack,350000.0
+1160,668,Maurice Litka,26,Germany,attack,200000.0
+1161,669,Theo Martens,19,Germany,attack,50000.0
+1162,670,Nik Omladic,32,Slovenia,attack,350000.0
+1163,671,Danylo Sikan,21,Ukraine,attack,1500000.0
+1164,672,John Verhoek,33,Netherlands,attack,600000.0
+1165,673,Streli Mamba,27,Germany,attack,500000.0
+1166,674,Ridge Munsy,32,Switzerland,attack,400000.0
+1167,675,Robin Meißner,22,Germany,attack,400000.0
+1168,676,Pascal Breier,30,Germany,attack,275000.0
+1169,677,Alisson,29,Brazil,goalkeeper,60000000.0
+1170,678,Caoimhin Kelleher,23,Ireland,goalkeeper,5000000.0
+1171,679,Loris Karius,28,Germany,goalkeeper,1500000.0
+1172,680,Adrián,35,Spain,goalkeeper,1000000.0
+1173,681,Virgil van Dijk,30,Netherlands,defender,55000000.0
+1174,682,Ibrahima Konaté,23,France,defender,30000000.0
+1175,683,Joe Gomez,25,England,defender,22000000.0
+1176,684,Joel Matip,30,Cameroon,defender,18000000.0
+1177,685,Nathaniel Phillips,25,England,defender,8000000.0
+1178,686,Sepp van den Berg,20,Netherlands,defender,5000000.0
+1179,687,Rhys Williams,21,England,defender,4000000.0
+1180,688,Ben Davies,26,England,defender,2500000.0
+1181,689,Andrew Robertson,28,Scotland,defender,65000000.0
+1182,690,Konstantinos Tsimikas,26,Greece,defender,10000000.0
+1183,691,Trent Alexander-Arnold,23,England,defender,80000000.0
+1184,692,Neco Williams,21,Wales,defender,8000000.0
+1185,693,Fabinho,28,Brazil,midfield,60000000.0
+1186,694,Naby Keïta,27,Guinea,midfield,30000000.0
+1187,695,Curtis Jones,21,England,midfield,30000000.0
+1188,696,Thiago,31,Spain,midfield,22000000.0
+1189,697,Jordan Henderson,31,England,midfield,18000000.0
+1190,698,Alex Oxlade-Chamberlain,28,England,midfield,18000000.0
+1191,699,James Milner,36,England,midfield,2000000.0
+1192,700,Sadio Mané,30,Senegal,attack,80000000.0
+1193,701,Luis Díaz,25,Colombia,attack,45000000.0
+1194,702,Takumi Minamino,27,Japan,attack,12000000.0
+1195,703,Sheyi Ojo,24,England,attack,2000000.0
+1196,704,Ben Woodburn,22,Wales,attack,1500000.0
+1197,705,Mohamed Salah,29,Egypt,attack,100000000.0
+1198,706,Harvey Elliott,19,England,attack,22000000.0
+1199,707,Diogo Jota,25,Portugal,attack,60000000.0
+1200,708,Roberto Firmino,30,Brazil,attack,38000000.0
+1201,709,Divock Origi,27,Belgium,attack,12000000.0
+1202,710,Martin Fraisl,29,Austria,goalkeeper,600000.0
+1203,711,Ralf Fährmann,33,Germany,goalkeeper,500000.0
+1204,712,Michael Langer,37,Austria,goalkeeper,50000.0
+1205,713,Malick Thiaw,20,Germany,defender,5000000.0
+1206,714,Ko Itakura,25,Japan,defender,3500000.0
+1207,715,Marius Lode,29,Norway,defender,1000000.0
+1208,716,Marcin Kaminski,30,Poland,defender,1000000.0
+1209,717,Salif Sané,31,Senegal,defender,800000.0
+1210,718,Thomas Ouwejan,25,Netherlands,defender,2500000.0
+1211,719,Kerim Calhanoglu,19,Germany,defender,800000.0
+1212,720,Mehmet Aydin,20,Germany,defender,2000000.0
+1213,721,Andreas Vindheim,26,Norway,defender,1000000.0
+1214,722,Henning Matriciani,22,Germany,defender,200000.0
+1215,723,Victor Pálsson,31,Iceland,midfield,800000.0
+1216,724,Florian Flick,22,Germany,midfield,700000.0
+1217,725,Rodrigo Zalazar,22,Uruguay,midfield,2500000.0
+1218,726,Danny Latza,32,Germany,midfield,600000.0
+1219,727,Blendi Idrizi,24,Kosovo,midfield,600000.0
+1220,728,Marc Rzatkowski,32,Germany,midfield,300000.0
+1221,729,Reinhold Ranftl,30,Austria,midfield,700000.0
+1222,730,Dominick Drexler,32,Germany,midfield,1000000.0
+1223,731,Dong-gyeong Lee,24,"Korea, South",midfield,900000.0
+1224,732,Yaroslav Mikhailov,19,Russia,midfield,300000.0
+1225,733,Darko Churlinov,21,North Macedonia,attack,1000000.0
+1226,734,Marius Bülter,29,Germany,attack,1700000.0
+1227,735,Simon Terodde,34,Germany,attack,1000000.0
+1228,736,Marvin Pieringer,22,Germany,attack,500000.0
+1229,737,Michael Zadach,21,Germany,goalkeeper,75000.0
+1230,738,Felix Wienand,19,Germany,goalkeeper,75000.0
+1231,739,Radomir Novakovic,22,Serbia,goalkeeper,50000.0
+1232,740,Ivan Prebanic,22,Germany,goalkeeper,10000.0
+1233,741,Mika Hanraths,22,Germany,defender,125000.0
+1234,742,Julius Schell,22,Germany,defender,100000.0
+1235,743,Tjark Scheller,20,Germany,defender,75000.0
+1236,744,Joey Müller,21,Germany,defender,100000.0
+1237,745,Henning Matriciani,22,Germany,defender,200000.0
+1238,746,Björn Liebnau,22,Germany,defender,50000.0
+1239,747,Sven Mende,28,Germany,midfield,100000.0
+1240,748,Jimmy Kaparos,20,Netherlands,midfield,100000.0
+1241,749,Topaz Kronmüller,19,Germany,midfield,50000.0
+1242,750,Mikail Maden,20,Norway,midfield,150000.0
+1243,751,Daniel Kyerewaa,20,Germany,midfield,100000.0
+1244,752,Marouane Balouk,19,Belgium,midfield,75000.0
+1245,753,Diamant Berisha,21,Kosovo,attack,100000.0
+1246,754,Léo Scienza,23,Brazil,attack,100000.0
+1247,755,Hans Anapak,21,Germany,attack,100000.0
+1248,756,Nelson Amadin,21,Netherlands,attack,75000.0
+1249,757,Franck Tehe,20,Germany,attack,50000.0
+1250,758,Rufat Dadashov,30,Azerbaijan,attack,200000.0
+1251,759,Bleron Krasniqi,20,Kosovo,attack,100000.0
+1252,760,Mateo Aramburú,24,Uruguay,attack,75000.0
+1253,761,Yigal Bruk,20,Ukraine,attack,25000.0
+1254,762,Niklas Castelle,19,Germany,attack,10000.0
+1255,763,Nikola Vasilj,26,Bosnia-Herzegovina,goalkeeper,1200000.0
+1256,764,Dennis Smarsch,23,Germany,goalkeeper,250000.0
+1257,765,Sören Ahlers,24,Germany,goalkeeper,50000.0
+1258,766,Jakov Medic,23,Croatia,defender,1300000.0
+1259,767,James Lawrence,29,Wales,defender,1000000.0
+1260,768,Philipp Ziereis,29,Germany,defender,1000000.0
+1261,769,Adam Dzwigala,26,Poland,defender,400000.0
+1262,770,Christopher Avevor,30,Germany,defender,250000.0
+1263,771,Marcel Beifus,19,Germany,defender,250000.0
+1264,772,Leart Paqarada,27,Kosovo,defender,1500000.0
+1265,773,Lars Ritzka,24,Germany,defender,300000.0
+1266,774,Sebastian Ohlsson,29,Sweden,defender,700000.0
+1267,775,Luca Zander,26,Germany,defender,600000.0
+1268,776,Jannes Wieckhoff,21,Germany,defender,200000.0
+1269,777,Eric Smith,25,Sweden,midfield,1200000.0
+1270,778,Afeez Aremu,22,Nigeria,midfield,800000.0
+1271,779,Finn Ole Becker,21,Germany,midfield,2500000.0
+1272,780,Jackson Irvine,29,Australia,midfield,2000000.0
+1273,781,Marcel Hartel,26,Germany,midfield,1800000.0
+1274,782,Rico Benatelli,30,Germany,midfield,500000.0
+1275,783,Christopher Buchtmann,30,Germany,midfield,450000.0
+1276,784,Niklas Jessen,18,Germany,midfield,150000.0
+1277,785,Franz Roggow,19,Germany,midfield,100000.0
+1278,786,Daniel-Kofi Kyereh,26,Ghana,midfield,3000000.0
+1279,787,Lukas Daschner,23,Germany,midfield,450000.0
+1280,788,Maximilian Dittgen,27,Germany,attack,650000.0
+1281,789,Guido Burgstaller,33,Austria,attack,1000000.0
+1282,790,Igor Matanovic,19,Croatia,attack,1000000.0
+1283,791,Etienne Amenyido,24,Togo,attack,600000.0
+1284,792,Simon Makienok,31,Denmark,attack,400000.0
+1285,793,Altay Bayindir,24,Turkey,goalkeeper,16000000.0
+1286,794,Berke Özer,22,Turkey,goalkeeper,3500000.0
+1287,795,Ertugrul Cetin,19,Turkey,goalkeeper,75000.0
+1288,796,Min-jae Kim,25,"Korea, South",defender,14000000.0
+1289,797,Attila Szalai,24,Hungary,defender,12000000.0
+1290,798,Marcel Tisserand,29,DR Congo,defender,2800000.0
+1291,799,Serdar Aziz,31,Turkey,defender,2500000.0
+1292,800,Ferdi Kadioglu,22,Turkey,defender,10500000.0
+1293,801,Filip Novak,31,Czech Republic,defender,1000000.0
+1294,802,Cagtay Kurukalip,20,Turkey,defender,250000.0
+1295,803,Bright Osayi-Samuel,24,Nigeria,defender,8000000.0
+1296,804,Nazim Sangaré,28,Turkey,defender,1700000.0
+1297,805,Serhat Ahmetoglu,20,Turkey,defender,200000.0
+1298,806,Luiz Gustavo,34,Brazil,midfield,1200000.0
+1299,807,Miguel Crespo,25,Portugal,midfield,8000000.0
+1300,808,Miha Zajc,27,Slovenia,midfield,6000000.0
+1301,809,Ozan Tufan,27,Turkey,midfield,3800000.0
+1302,810,Mert Hakan Yandas,27,Turkey,midfield,3500000.0
+1303,811,José Sosa,36,Argentina,midfield,300000.0
+1304,812,Arda Güler,17,Turkey,midfield,6000000.0
+1305,813,Mesut Özil,33,Germany,midfield,1800000.0
+1306,814,Diego Rossi,24,Uruguay,attack,14500000.0
+1307,815,Dimitrios Pelkas,28,Greece,attack,4500000.0
+1308,816,Arda Kurtulan,19,North Macedonia,attack,75000.0
+1309,817,Irfan Can Kahveci,26,Turkey,attack,8500000.0
+1310,818,Burak Kapacak,22,Turkey,attack,900000.0
+1311,819,Mergim Berisha,24,Germany,attack,6000000.0
+1312,820,Serdar Dursun,30,Turkey,attack,3500000.0
+1313,821,Enner Valencia,32,Ecuador,attack,2400000.0
+1314,822,Florian Kastenmeier,24,Germany,goalkeeper,800000.0
+1315,823,Raphael Wolf,33,Germany,goalkeeper,250000.0
+1316,824,Dennis Gorka,20,Germany,goalkeeper,200000.0
+1317,825,Kai Eisele,26,Germany,goalkeeper,150000.0
+1318,826,Andre Hoffmann,29,Germany,defender,1500000.0
+1319,827,Christoph Klarer,21,Austria,defender,1200000.0
+1320,828,Jordy de Wijs,27,Netherlands,defender,1200000.0
+1321,829,Tim Oberdorf,25,Germany,defender,350000.0
+1322,830,Nikell Touglo,20,Togo,defender,100000.0
+1323,831,Nicolas Gavory,27,France,defender,1500000.0
+1324,832,Leonardo Koutris,26,Greece,defender,1000000.0
+1325,833,Florian Hartherz,29,Germany,defender,600000.0
+1326,834,Matthias Zimmermann,29,Germany,defender,1000000.0
+1327,835,Takashi Uchino,21,Japan,defender,150000.0
+1328,836,Marcel Sobottka,28,Germany,midfield,1200000.0
+1329,837,Adam Bodzek,36,Germany,midfield,250000.0
+1330,838,Ao Tanaka,23,Japan,midfield,1500000.0
+1331,839,Jakub Piotrowski,24,Poland,midfield,800000.0
+1332,840,Edgar Prib,32,Germany,midfield,400000.0
+1333,841,Khaled Narey,27,Germany,midfield,2000000.0
+1334,842,Shinta Appelkamp,21,Germany,midfield,1800000.0
+1335,843,Kristoffer Peterson,27,Sweden,attack,1500000.0
+1336,844,Emmanuel Iyoha,24,Germany,attack,750000.0
+1337,845,Tim Köther,21,Germany,attack,175000.0
+1338,846,Felix Klaus,29,Germany,attack,1000000.0
+1339,847,Thomas Pledl,28,Germany,attack,400000.0
+1340,848,Robert Bozenik,22,Slovakia,attack,1500000.0
+1341,849,Daniel Ginczek,31,Germany,attack,1000000.0
+1342,850,Rouwen Hennings,34,Germany,attack,650000.0
+1343,851,Lex-Tyger Lobinger,23,Germany,attack,200000.0
+1344,852,Craig Gordon,39,Scotland,goalkeeper,450000.0
+1345,853,Ross Stewart,27,Scotland,goalkeeper,200000.0
+1346,854,John Souttar,25,Scotland,defender,1000000.0
+1347,855,Craig Halkett,27,Scotland,defender,600000.0
+1348,856,Toby Sibbick,23,England,defender,500000.0
+1349,857,Mihai Popescu,29,Romania,defender,350000.0
+1350,858,Stephen Kingsley,27,Scotland,defender,800000.0
+1351,859,Nathaniel Atkinson,22,Australia,defender,900000.0
+1352,860,Michael Smith,33,Northern Ireland,defender,400000.0
+1353,861,Jamie Brandon,24,Scotland,defender,200000.0
+1354,862,Cameron Devlin,23,Australia,midfield,600000.0
+1355,863,Andy Halliday,30,Scotland,midfield,375000.0
+1356,864,Peter Haring,29,Austria,midfield,350000.0
+1357,865,Beni Baningime,23,DR Congo,midfield,1000000.0
+1358,866,Aaron McEneff,26,Ireland,midfield,400000.0
+1359,867,Gary Mackay-Steven,31,Scotland,midfield,750000.0
+1360,868,Finlay Pollock,17,Scotland,midfield,50000.0
+1361,869,Barrie McKay,27,Scotland,attack,750000.0
+1362,870,Jamie Walker,28,Scotland,attack,400000.0
+1363,871,Josh Ginnelly,25,England,attack,375000.0
+1364,872,Euan Henderson,21,Scotland,attack,200000.0
+1365,873,Liam Boyce,31,Northern Ireland,attack,600000.0
+1366,874,Alexander Schwolow,30,Germany,goalkeeper,3500000.0
+1367,875,Oliver Christensen,23,Denmark,goalkeeper,1500000.0
+1368,876,Rune Jarstein,37,Norway,goalkeeper,400000.0
+1369,877,Marcel Lotka,21,Poland,goalkeeper,400000.0
+1370,878,Nils-Jonathan Körber,25,Germany,goalkeeper,300000.0
+1371,879,Niklas Stark,27,Germany,defender,7500000.0
+1372,880,Marc Oliver Kempf,27,Germany,defender,5500000.0
+1373,881,Márton Dárdai,20,Germany,defender,5000000.0
+1374,882,Dedryck Boyata,31,Belgium,defender,3500000.0
+1375,883,Linus Gechter,18,Germany,defender,3500000.0
+1376,884,Maximilian Mittelstädt,25,Germany,defender,4500000.0
+1377,885,Fredrik André Björkan,23,Norway,defender,2500000.0
+1378,886,Marvin Plattenhardt,30,Germany,defender,2000000.0
+1379,887,Lukas Klünter,26,Germany,defender,1800000.0
+1380,888,Peter Pekarik,35,Slovakia,defender,800000.0
+1381,889,Lucas Tousart,25,France,midfield,8000000.0
+1382,890,Santiago Ascacíbar,25,Argentina,midfield,7500000.0
+1383,891,Suat Serdar,25,Germany,midfield,9000000.0
+1384,892,Jurgen Ekkelenkamp,22,Netherlands,midfield,3500000.0
+1385,893,Vladimir Darida,31,Czech Republic,midfield,3200000.0
+1386,894,Jonas Michelbrink,20,Germany,midfield,500000.0
+1387,895,Kevin-Prince Boateng,35,Ghana,midfield,900000.0
+1388,896,Myziane Maolida,23,France,attack,4500000.0
+1389,897,Anton Kade,18,Germany,attack,500000.0
+1390,898,Marco Richter,24,Germany,attack,7000000.0
+1391,899,Kelian Nsona,20,France,attack,1200000.0
+1392,900,Dong-jun Lee,25,"Korea, South",attack,1200000.0
+1393,901,Stevan Jovetic,32,Montenegro,attack,3000000.0
+1394,902,Davie Selke,27,Germany,attack,1800000.0
+1395,903,Ishak Belfodil,30,Algeria,attack,1700000.0
+1396,904,Luca Wollschläger,19,Germany,attack, 
+1397,905,Nils-Jonathan Körber,25,Germany,goalkeeper,300000.0
+1398,906,Florian Palmowski,20,Germany,goalkeeper,75000.0
+1399,907,Nikolai Kemlein,19,Germany,goalkeeper,50000.0
+1400,908,Jamil Najjar,18,Germany,defender,200000.0
+1401,909,Christalino Atemona,20,Germany,defender,100000.0
+1402,910,Marlon Morgenstern,21,Germany,defender,100000.0
+1403,911,Cimo Röcker,28,Germany,defender,100000.0
+1404,912,Sonny Ziemer,20,Germany,defender,75000.0
+1405,913,Robin-Charles Traboulsi,20,Germany,defender,25000.0
+1406,914,Maximilian Gurschke,22,Germany,defender,25000.0
+1407,915,Tony Fuchs,31,Germany,defender,75000.0
+1408,916,Berkan Alimler,22,Germany,defender,25000.0
+1409,917,Florian Haxha,20,Kosovo,defender,100000.0
+1410,918,Joe Williams,20,Ghana,defender,25000.0
+1411,919,Jonas Dirkner,19,Germany,midfield,175000.0
+1412,920,Jonas Michelbrink,20,Germany,midfield,500000.0
+1413,921,Julian Albrecht,20,Germany,midfield,150000.0
+1414,922,Joel Bustamante,21,Spain,midfield,50000.0
+1415,923,Nicolas Tomerius,20,Germany,midfield,25000.0
+1416,924,Timur Gayret,23,Germany,midfield,150000.0
+1417,925,Ali Abu-Alfa,22,Palästina,attack,125000.0
+1418,926,Ensar Aksakal,20,Germany,attack,50000.0
+1419,927,Justin Weber,21,Germany,attack,25000.0
+1420,928,Maurice Covic,24,Germany,attack,125000.0
+1421,929,Timo Ebert,19,Germany,attack,25000.0
+1422,930,Marten Winkler,19,Germany,attack,175000.0
+1423,931,Emincan Tekin,19,Turkey,attack,75000.0
+1424,932,Derry Scherhant,19,Germany,attack,125000.0
+1425,933,Ruwen Werthmüller,21,Switzerland,attack,125000.0
+1426,934,Stefanos Palavrakis,26,Greece,goalkeeper,150000.0
+1427,935,Dimitrios Grigoriadis,25,Greece,goalkeeper,50000.0
+1428,936,Chrysostomos Iakovidis,23,Greece,goalkeeper,25000.0
+1429,937,Marios Kostoulas,26,Greece,defender,200000.0
+1430,938,Angelos Papasterianos,30,Greece,defender,150000.0
+1431,939,Sebastian Chrusciel,24,Poland,defender,125000.0
+1432,940,Dimitrios Sgouris,21,Greece,defender,75000.0
+1433,941,Georgios Manolakis,23,Greece,defender,200000.0
+1434,942,Stavros Pilios,21,Greece,defender,125000.0
+1435,943,Konstantinos Panagou,23,Greece,defender,175000.0
+1436,944,Manolis Patralis,25,Greece,midfield,200000.0
+1437,945,Damián Silva,21,Uruguay,midfield,175000.0
+1438,946,Giannis Papadopoulos,21,Greece,midfield,100000.0
+1439,947,Konstantinos Papaioannou,18,Greece,midfield, 
+1440,948,Manolis Papasterianos,34,Greece,midfield,150000.0
+1441,949,Antonio Napolitano,23,Argentina,midfield,25000.0
+1442,950,Antonis Baliktsis,20,Greece,midfield,25000.0
+1443,951,Ioannis Panagiotis Doiranlis,19,Greece,midfield, 
+1444,952,Denzel Jubitana,23,Belgium,midfield,275000.0
+1445,953,Mathías Tomás,21,Uruguay,midfield,250000.0
+1446,954,Georgios Kakko,25,Greece,midfield,200000.0
+1447,955,Kosta Aleksic,24,Serbia,midfield,150000.0
+1448,956,Geron Tocka,22,Albania,midfield,150000.0
+1449,957,Filoxenos Toursidis,21,Greece,midfield,75000.0
+1450,958,Christoforos Daskalakis,19,Greece,midfield, 
+1451,959,Nikolaos Masouras,20,Greece,attack,200000.0
+1452,960,Vitinho,23,Brazil,attack,125000.0
+1453,961,Konstantinos Chatzipirpiridis,21,Greece,attack,50000.0
+1454,962,Michalis Bastakos,25,Greece,attack,300000.0
+1455,963,Giannis Fakkis,21,Greece,attack,75000.0
+1456,964,Athanasios Kartsabas,24,Greece,attack,75000.0
+1457,965,Stathis Eleftheriadis,20,Greece,attack,25000.0
+1458,966,Georgios Makris,21,Greece,attack, 
+1459,967,Marius Gersbeck,26,Germany,goalkeeper,800000.0
+1460,968,Markus Kuster,28,Austria,goalkeeper,350000.0
+1461,969,Paul Löhr,21,Germany,goalkeeper,100000.0
+1462,970,Niklas Heeger,22,Germany,goalkeeper,50000.0
+1463,971,Daniel O'Shaughnessy,27,Finland,defender,900000.0
+1464,972,Christoph Kobald,24,Austria,defender,900000.0
+1465,973,Robin Bormuth,26,Germany,defender,650000.0
+1466,974,Felix Irorere,19,Germany,defender,200000.0
+1467,975,Daniel Gordon,37,Jamaica,defender,175000.0
+1468,976,Lazar Mirkovic,19,Serbia,defender,125000.0
+1469,977,Philip Heise,30,Germany,defender,700000.0
+1470,978,Kilian Jakob,24,Germany,defender,200000.0
+1471,979,Marco Thiede,30,Germany,defender,600000.0
+1472,980,Ricardo van Rhijn,30,Netherlands,defender,350000.0
+1473,981,Sebastian Jung,31,Germany,defender,300000.0
+1474,982,Jannis Rabold,21,Germany,defender,125000.0
+1475,983,Tim Breithaupt,20,Germany,midfield,2000000.0
+1476,984,Marvin Wanitzek,29,Germany,midfield,1200000.0
+1477,985,Jérôme Gondorf,33,Germany,midfield,500000.0
+1478,986,Leon Jensen,25,Germany,midfield,250000.0
+1479,987,Kyoung-rok Choi,27,"Korea, South",midfield,800000.0
+1480,988,Lucas Cueto,26,Germany,attack,350000.0
+1481,989,Marc Lorenz,33,Germany,attack,300000.0
+1482,990,Benjamin Goller,23,Germany,attack,700000.0
+1483,991,Fabian Schleusener,30,Germany,attack,450000.0
+1484,992,Fabio Kaufmann,29,Germany,attack,400000.0
+1485,993,Philipp Hofmann,29,Germany,attack,1800000.0
+1486,994,Malik Batmaz,22,Turkey,attack,500000.0
+1487,995,Daniel Szczepankiewicz,28,Poland,goalkeeper,75000.0
+1488,996,Kevin Harr,22,"Korea, South",goalkeeper,75000.0
+1489,997,Martin Velichkov,22,Bulgaria,goalkeeper,50000.0
+1490,998,Oktay Dal,25,Germany,defender,100000.0
+1491,999,Rene Lindner,29,Germany,defender,75000.0
+1492,1000,Kevin Kahlert,32,Germany,defender,75000.0
+1493,1001,Mordecai Zuhs,19,Ghana,defender,25000.0
+1494,1002,Daniel Francis,19,Sierra Leone,defender,75000.0
+1495,1003,Leon Benning,20,Germany,defender,10000.0
+1496,1004,Bennet Eickhoff,26,Germany,defender,75000.0
+1497,1005,Leonardo Marino,20,Germany,defender,10000.0
+1498,1006,Tidiane Gueye,19,Senegal,midfield,10000.0
+1499,1007,Noyan Efe Bayaki,20,Germany,midfield,10000.0
+1500,1008,Romario Wiesweg,27,Germany,midfield,75000.0
+1501,1009,Dimitrios Ioannidis,22,Germany,midfield,75000.0
+1502,1010,Patrik Twardzik,29,Czech Republic,midfield,75000.0
+1503,1011,Ibrahim Das,20,Germany,midfield,25000.0
+1504,1012,Jan Holldack,26,Germany,midfield,125000.0
+1505,1013,Bajrush Osmani,20,Kosovo,midfield,10000.0
+1506,1014,Andreas Ivan,27,Romania,attack,150000.0
+1507,1015,Mike Pihl,29,Germany,attack,75000.0
+1508,1016,David Mamutovic,21,Germany,attack,100000.0
+1509,1017,Sebastian Mai,21,Germany,attack,100000.0
+1510,1018,Nico Hecker,30,Germany,attack,50000.0
+1511,1019,Gianluca Marzullo,31,Germany,attack,100000.0
+1512,1020,Leo Weinkauf,25,Germany,goalkeeper,300000.0
+1513,1021,Jo Coppens,31,Belgium,goalkeeper,150000.0
+1514,1022,Maximilian Braune,18,Germany,goalkeeper,75000.0
+1515,1023,Roman Schabbing,20,Germany,goalkeeper,25000.0
+1516,1024,Marlon Frey,26,Germany,defender,275000.0
+1517,1025,Oliver Steurer,27,Germany,defender,225000.0
+1518,1026,Stefan Velkov,25,Bulgaria,defender,200000.0
+1519,1027,Tobias Fleckstein,23,Germany,defender,200000.0
+1520,1028,Vincent Gembalies,22,Germany,defender,175000.0
+1521,1029,Dominic Volkmer,26,Germany,defender,125000.0
+1522,1030,Leroy Kwadwo,25,Germany,defender,200000.0
+1523,1031,Niko Bretschneider,22,Germany,defender,150000.0
+1524,1032,Rolf Feltscher,31,Venezuela,defender,350000.0
+1525,1033,Luca Nikolai,19,Germany,defender, 
+1526,1034,Marvin Bakalorz,32,Germany,midfield,275000.0
+1527,1035,Marvin Knoll,31,Germany,midfield,275000.0
+1528,1036,Niclas Stierlin,22,Germany,midfield,250000.0
+1529,1037,Caspar Jander,19,Germany,midfield,100000.0
+1530,1038,Marvin Ajani,28,Germany,midfield,250000.0
+1531,1039,Kolja Pusch,29,Germany,midfield,275000.0
+1532,1040,Alaa Bakir,21,Germany,midfield,225000.0
+1533,1041,Moritz Stoppelkamp,35,Germany,attack,200000.0
+1534,1042,John Yeboah,21,Germany,attack,500000.0
+1535,1043,Julian Hettwer,18,Germany,attack,300000.0
+1536,1044,Rudolf Ndualu,22,Germany,attack,75000.0
+1537,1045,Orhan Ademi,30,Switzerland,attack,275000.0
+1538,1046,Aziz Bouhaddouz,35,Morocco,attack,200000.0
+1539,1047,Chinedu Ekene,22,Germany,attack,100000.0
+1540,1048,Aleksa Janjic,18,Serbia,goalkeeper, 
+1541,1049,Jovan Milic,21,Serbia,goalkeeper, 
+1542,1050,Dejan Jevtic,32,Serbia,goalkeeper, 
+1543,1051,Nenad Jovanovic,34,Serbia,defender,150000.0
+1544,1052,Slobodan Ivanovic,24,Serbia,defender,75000.0
+1545,1053,Vladimir Arsovic,22,Serbia,defender, 
+1546,1054,Vukasin Maric,20,Serbia,defender, 
+1547,1055,Vuk Krstic,17,Serbia,defender, 
+1548,1056,Jovan Jovanovic,23,Serbia,defender, 
+1549,1057,Milos Popovic,19,Serbia,defender, 
+1550,1058,Damjan Jankovic,21,Serbia,defender, 
+1551,1059,Filip Gogic,23,Serbia,midfield,125000.0
+1552,1060,Uros Aleksijevic,22,Serbia,midfield,100000.0
+1553,1061,Filip Bozic,23,Serbia,midfield,50000.0
+1554,1062,Vojislav Nedeljkovic,22,Serbia,midfield, 
+1555,1063,Andreja Lazovic,27,Serbia,attack,150000.0
+1556,1064,Aleksa Kostic Milutinovic,24,Serbia,attack,125000.0
+1557,1065,Petar Ugrica,24,Serbia,attack, 
+1558,1066,Luka Svetlicic,22,Serbia,attack, 
+1559,1067,Jakov Petkovic,20,Serbia,attack, 
+1560,1068,Lazar Pejcic,20,Serbia,attack,25000.0
+1561,1069,Vuk Randjic,29,Serbia,attack, 
+1562,1070,Marko Pavicevic,35,Serbia,attack,50000.0
+1563,1071,Mihajlo Mikan,19,Serbia,attack, 
+1564,1072,Marko Radman,23,Serbia,attack, 
+1565,1073,Mohammad Bakhtiari,25,Iran,goalkeeper, 
+1566,1074,Abolfazl Darvishvand,25,Iran,goalkeeper, 
+1567,1075,Alireza Gharebaghi,23,Iran,goalkeeper, 
+1568,1076,Roozbeh Bahari,(-,Iran,goalkeeper, 
+1569,1077,Milad Pourgholi,28,Iran,goalkeeper, 
+1570,1078,Mehrdad Alizadeh,(-,Iran,defender,50000.0
+1571,1079,Farhan Farhadi,(-,Iran,defender,25000.0
+1572,1080,Hossein Mohammadi,26,Iran,defender, 
+1573,1081,Amin Kashefi,25,Iran,defender, 
+1574,1082,Farshad Emami,33,Iran,defender, 
+1575,1083,Marvan Naeij,(-,Iran,defender, 
+1576,1084,Hassan Batoyi,(-,Iran,defender, 
+1577,1085,Mohammad Enayati,24,Iran,defender, 
+1578,1086,Mostafa Solgi,30,Iran,defender, 
+1579,1087,Vahid Nemati,34,Iran,defender, 
+1580,1088,Amirhossein Aghamohammadi,(-,Iran,defender,25000.0
+1581,1089,Reza Kashefi,27,Iran,midfield,25000.0
+1582,1090,Mohsen Yari,23,Iran,midfield, 
+1583,1091,Mohammadreza Eghbali,(-,Iran,midfield,25000.0
+1584,1092,Sobhan Mehrabani,(-,Iran,midfield, 
+1585,1093,Ali Mohammadi Heshmatie,32,Iran,midfield, 
+1586,1094,Majid Jalalifar,33,Iran,midfield, 
+1587,1095,Mohammadreza Safaei,21,Iran,midfield,25000.0
+1588,1096,Mostafa Farhadi,21,Iran,attack,50000.0
+1589,1097,Abbas Kandoul,(-,Iran,attack,25000.0
+1590,1098,Hassan Zangane,23,Iran,attack, 
+1591,1099,Mohsen Vafaei,33,Iran,attack, 
+1592,1100,Masoud Ramezani,(-,Iran,attack,50000.0
+1593,1101,Adel Sarshar,30,Iran,attack,25000.0
+1594,1102,Matin Asadi,(-,Iran,attack,25000.0
+1595,1103,Farhad Joudaki,29,Iran,attack,50000.0
+1596,1104,Hossein Joudaki,33,Iran,attack,50000.0
+1597,1105,Amir Alidadi,(-,Iran,attack,25000.0
+1598,1106,Daniel Davari,34,Iran,goalkeeper,150000.0
+1599,1107,Jakob Golz,23,Germany,goalkeeper,100000.0
+1600,1108,Raphael Koczor,33,Germany,goalkeeper,50000.0
+1601,1109,Daniel Heber,27,Germany,defender,200000.0
+1602,1110,José-Enrique Ríos Alonso,21,Germany,defender,150000.0
+1603,1111,Felix Herzenbruch,29,Germany,defender,125000.0
+1604,1112,Yannick Langesberg,28,Germany,defender,100000.0
+1605,1113,Felix Bastians,34,Germany,defender,275000.0
+1606,1114,Michel Niemeyer,26,Germany,defender,125000.0
+1607,1115,Sascha Voelcke,20,Germany,defender,50000.0
+1608,1116,Sandro Plechaty,24,Germany,defender,175000.0
+1609,1117,David Sauerland,24,Germany,defender,75000.0
+1610,1118,Niklas Tarnat,24,Germany,midfield,150000.0
+1611,1119,Fabian Rüth,20,Germany,midfield,125000.0
+1612,1120,Luca Dürholtz,28,Germany,midfield,200000.0
+1613,1121,Nils Kaiser,20,Germany,midfield,25000.0
+1614,1122,Thomas Eisfeld,29,Germany,midfield,300000.0
+1615,1123,Cedric Harenbrock,24,Germany,midfield,150000.0
+1616,1124,Erolind Krasniqi,22,Kosovo,midfield,125000.0
+1617,1125,Isaiah Young,24,United States,attack,200000.0
+1618,1126,Oguzhan Kefkir,30,Germany,attack,150000.0
+1619,1127,Marius Kleinsorge,26,Germany,attack,175000.0
+1620,1128,Kevin Holzweiler,27,Germany,attack,150000.0
+1621,1129,Simon Engelmann,33,Germany,attack,150000.0
+1622,1130,Zlatko Janjic,36,Bosnia-Herzegovina,attack,100000.0
+1623,1131,Justin Heekeren,21,Germany,goalkeeper,150000.0
+1624,1132,Robin Benz,26,Germany,goalkeeper,75000.0
+1625,1133,Nico Klaß,25,Germany,defender,175000.0
+1626,1134,Tanju Öztürk,32,Germany,defender,125000.0
+1627,1135,Tim Stappmann,22,Germany,defender,100000.0
+1628,1136,Joey Justin Gabriel,20,Germany,defender,25000.0
+1629,1137,Pierre Fassnacht,26,Germany,defender,100000.0
+1630,1138,Nils Winter,28,Germany,defender,150000.0
+1631,1139,Jeffrey Obst,28,Mozambique,defender,75000.0
+1632,1140,Fabian Holthaus,27,Germany,midfield,150000.0
+1633,1141,Jerome Propheter,31,Germany,midfield,125000.0
+1634,1142,Adam Lenges,19,United States,midfield,50000.0
+1635,1143,Jan-Lucas Dorow,29,Germany,midfield,100000.0
+1636,1144,Nico Buckmaier,29,Germany,midfield,100000.0
+1637,1145,Rinor Rexha,23,Kosovo,midfield,25000.0
+1638,1146,Anton Heinz,24,Germany,attack,150000.0
+1639,1147,Maik Odenthal,29,Germany,attack,100000.0
+1640,1148,Hüseyin Bulut,23,Turkey,attack,75000.0
+1641,1149,Shaibou Oubeyapwa,29,Germany,attack,150000.0
+1642,1150,Manuel Kabambi,27,Germany,attack,50000.0
+1643,1151,Sven Kreyer,31,Germany,attack,150000.0
+1644,1152,Vincent Boesen,23,Germany,attack,100000.0
+1645,1153,Hendrik Van Crombrugge,29,Belgium,goalkeeper,5500000.0
+1646,1154,Bart Verbruggen,19,Netherlands,goalkeeper,750000.0
+1647,1155,Colin Coosemans,29,Belgium,goalkeeper,300000.0
+1648,1156,Rik Vercauteren,20,Belgium,goalkeeper,100000.0
+1649,1157,Wesley Hoedt,28,Netherlands,defender,5000000.0
+1650,1158,Hannes Delcroix,23,Belgium,defender,3500000.0
+1651,1159,Lisandro Magallán,28,Argentina,defender,2500000.0
+1652,1160,Zeno Debast,18,Belgium,defender,2000000.0
+1653,1161,Lucas Lissens,20,Belgium,defender,600000.0
+1654,1162,Sergio Gómez,21,Spain,defender,10000000.0
+1655,1163,Bogdan Mykhaylichenko,25,Ukraine,defender,1500000.0
+1656,1164,Michael Murillo,26,Panama,defender,3500000.0
+1657,1165,Killian Sardella,20,Belgium,defender,1600000.0
+1658,1166,Marco Kana,19,Belgium,midfield,4000000.0
+1659,1167,Josh Cullen,26,Ireland,midfield,5000000.0
+1660,1168,Majeed Ashimeru,24,Ghana,midfield,3500000.0
+1661,1169,Kristoffer Olsson,26,Sweden,midfield,3000000.0
+1662,1170,Kristian Arnstad,18,Norway,midfield,1000000.0
+1663,1171,Yari Verschaeren,20,Belgium,midfield,13000000.0
+1664,1172,Anouar Ait El Hadj,20,Belgium,midfield,4000000.0
+1665,1173,Mario Stroeykens,17,Belgium,midfield,1000000.0
+1666,1174,Lior Refaelov,36,Israel,midfield,800000.0
+1667,1175,Zakaria Bakkali,26,Belgium,attack,250000.0
+1668,1176,Francis Amuzu,22,Belgium,attack,5500000.0
+1669,1177,Joshua Zirkzee,21,Netherlands,attack,11000000.0
+1670,1178,Christian Kouamé,24,Cote d'Ivoire,attack,9000000.0
+1671,1179,Benito Raman,27,Belgium,attack,3000000.0
+1672,1180,Antoine Colassin,21,Belgium,attack,450000.0
+1673,1181,Mark Flekken,28,Netherlands,goalkeeper,5500000.0
+1674,1182,Noah Atubolu,20,Germany,goalkeeper,1500000.0
+1675,1183,Benjamin Uphoff,28,Germany,goalkeeper,500000.0
+1676,1184,Nico Schlotterbeck,22,Germany,defender,28000000.0
+1677,1185,Philipp Lienhart,25,Austria,defender,17000000.0
+1678,1186,Keven Schlotterbeck,25,Germany,defender,3500000.0
+1679,1187,Manuel Gulde,31,Germany,defender,2000000.0
+1680,1188,Kiliann Sildillia,20,France,defender,1500000.0
+1681,1189,Christian Günter,29,Germany,defender,12000000.0
+1682,1190,Kimberly Ezekwem,20,Germany,defender,300000.0
+1683,1191,Hugo Siquet,19,Belgium,defender,7000000.0
+1684,1192,Lukas Kübler,29,Germany,defender,2000000.0
+1685,1193,Jonathan Schmid,31,France,defender,1500000.0
+1686,1194,Yannik Keitel,22,Germany,midfield,4000000.0
+1687,1195,Nicolas Höfler,32,Germany,midfield,2500000.0
+1688,1196,Maximilian Eggestein,25,Germany,midfield,7500000.0
+1689,1197,Janik Haberer,28,Germany,midfield,4000000.0
+1690,1198,Vincenzo Grifo,29,Italy,attack,12000000.0
+1691,1199,Noah Weißhaupt,20,Germany,attack,1300000.0
+1692,1200,Roland Sallai,25,Hungary,attack,10000000.0
+1693,1201,Kevin Schade,20,Germany,attack,7000000.0
+1694,1202,Woo-yeong Jeong,22,"Korea, South",attack,5500000.0
+1695,1203,Ermedin Demirovic,24,Bosnia-Herzegovina,attack,7500000.0
+1696,1204,Lucas Höler,27,Germany,attack,6500000.0
+1697,1205,Nils Petersen,33,Germany,attack,1800000.0
+1698,1206,Vincent Vermeij,27,Netherlands,attack,400000.0
+1699,1207,Nishan Burkart,22,Switzerland,attack,350000.0
+1700,1208,Jérémy Frick,29,Switzerland,goalkeeper,600000.0
+1701,1209,Steven Deana,32,Switzerland,goalkeeper,125000.0
+1702,1210,Edin Omeragic,20,Switzerland,goalkeeper,100000.0
+1703,1211,Léo Besson,19,Kosovo,goalkeeper, 
+1704,1212,Vincent Sasso,31,France,defender,700000.0
+1705,1213,Nicolas Vouilloz,21,Switzerland,defender,700000.0
+1706,1214,Steve Rouiller,31,Switzerland,defender,400000.0
+1707,1215,Noah Henchoz,20,Switzerland,defender,100000.0
+1708,1216,Roggerio Nyakossi,18,Switzerland,defender,100000.0
+1709,1217,Diogo Monteiro,17,Portugal,defender,100000.0
+1710,1218,Yoan Severin,25,France,defender,600000.0
+1711,1219,Malik Sawadogo,18,Switzerland,defender,400000.0
+1712,1220,Gaël Clichy,36,France,defender,200000.0
+1713,1221,Valton Behrami,18,Switzerland,defender, 
+1714,1222,Moussa Diallo,25,France,defender,800000.0
+1715,1223,Moritz Bauer,30,Austria,defender,600000.0
+1716,1224,David Douline,29,France,midfield,400000.0
+1717,1225,Kastriot Imeri,21,Switzerland,midfield,6000000.0
+1718,1226,Timothé Cognat,24,France,midfield,2500000.0
+1719,1227,Théo Valls,26,France,midfield,2000000.0
+1720,1228,Boris Cespedes,26,Bolivia,midfield,700000.0
+1721,1229,Ricardo Azevedo,20,Switzerland,midfield,200000.0
+1722,1230,Sidiki Camara,19,Switzerland,midfield, 
+1723,1231,Lois Ndema,17,Switzerland,midfield, 
+1724,1232,Miroslav Stevanovic,31,Bosnia-Herzegovina,midfield,1500000.0
+1725,1233,Issa Kaloga,18,Switzerland,midfield, 
+1726,1234,Alexis Antunes,21,Switzerland,midfield,500000.0
+1727,1235,Boubacar Fofana,23,France,attack,1000000.0
+1728,1236,Papu Mendes,21,Guinea-Bissau,attack,100000.0
+1729,1237,Ronny Rodelin,32,France,attack,500000.0
+1730,1238,Nils Pédat,20,Switzerland,attack,100000.0
+1731,1239,Chris Bedia,26,Cote d'Ivoire,attack,700000.0
+1732,1240,Dimitri Oberlin,24,Switzerland,attack,300000.0
+1733,1241,Alexandre Patrício,18,Switzerland,attack, 
+1734,1242,Ondrej Kolar,27,Czech Republic,goalkeeper,6000000.0
+1735,1243,Ales Mandous,30,Czech Republic,goalkeeper,2000000.0
+1736,1244,Premysl Kovar,36,Czech Republic,goalkeeper,50000.0
+1737,1245,Taras Kacharaba,27,Ukraine,defender,1500000.0
+1738,1246,Aiham Ousou,22,Sweden,defender,1200000.0
+1739,1247,Ondrej Kudela,35,Czech Republic,defender,1000000.0
+1740,1248,Maksym Taloverov,21,Ukraine,defender,750000.0
+1741,1249,David Hovorka,28,Czech Republic,defender,500000.0
+1742,1250,Oscar Dorley,23,Liberia,defender,3500000.0
+1743,1251,Jan Boril,31,Czech Republic,defender,1800000.0
+1744,1252,David Jurasek,21,Czech Republic,defender,400000.0
+1745,1253,Alexander Bah,24,Denmark,defender,6000000.0
+1746,1254,Tomas Holes,29,Czech Republic,midfield,7000000.0
+1747,1255,Daniel Samek,18,Czech Republic,midfield,2200000.0
+1748,1256,Jakub Hromada,26,Slovakia,midfield,1500000.0
+1749,1257,Petr Sevcik,28,Czech Republic,midfield,3500000.0
+1750,1258,Ibrahim Traoré,33,Cote d'Ivoire,midfield,1000000.0
+1751,1259,Mads Emil Madsen,24,Denmark,midfield,600000.0
+1752,1260,Lukas Masopust,29,Czech Republic,midfield,3500000.0
+1753,1261,Ondrej Lingr,23,Czech Republic,midfield,2000000.0
+1754,1262,Peter Olayinka,26,Nigeria,attack,7000000.0
+1755,1263,Lukas Provod,25,Czech Republic,attack,5000000.0
+1756,1264,Srdjan Plavsic,26,Serbia,attack,1200000.0
+1757,1265,Ivan Schranz,28,Slovakia,attack,2000000.0
+1758,1266,Yira Sor,21,Nigeria,attack,500000.0
+1759,1267,Michael Krmencik,29,Czech Republic,attack,2500000.0
+1760,1268,Stanislav Tecl,31,Czech Republic,attack,500000.0
+1761,1269,Daniel Fila,19,Czech Republic,attack,500000.0
+1762,1270,Florian Stritzel,28,Germany,goalkeeper,250000.0
+1763,1271,Tim Boss,28,Germany,goalkeeper,200000.0
+1764,1272,Arthur Lyska,22,Germany,goalkeeper,100000.0
+1765,1273,Lucas Becker,20,Germany,goalkeeper,25000.0
+1766,1274,Ahmet Gürleyen,23,Germany,defender,325000.0
+1767,1275,Sascha Mockenhaupt,30,Germany,defender,325000.0
+1768,1276,Florian Carstens,23,Germany,defender,300000.0
+1769,1277,Nico Rieble,26,Germany,defender,175000.0
+1770,1278,Dennis Kempe,35,Germany,defender,125000.0
+1771,1279,Jozo Stanic,23,Germany,defender,300000.0
+1772,1280,Gino Fechner,24,Germany,defender,250000.0
+1773,1281,Bjarke Jacobsen,28,Denmark,midfield,325000.0
+1774,1282,Emanuel Taffertshofer,27,Germany,midfield,275000.0
+1775,1283,Sebastian Mrowca,28,Poland,midfield,250000.0
+1776,1284,Mehmet Kurt,26,Germany,midfield,200000.0
+1777,1285,Marc Lais,31,Germany,midfield,150000.0
+1778,1286,Thijmen Goppel,25,Netherlands,midfield,400000.0
+1779,1287,Kevin Lankford,23,Germany,midfield,275000.0
+1780,1288,Benedict Hollerbach,21,Germany,midfield,250000.0
+1781,1289,Maximilian Thiel,29,Germany,midfield,300000.0
+1782,1290,Lucas Brumme,22,Germany,midfield,175000.0
+1783,1291,Gianluca Korte,31,Germany,midfield,150000.0
+1784,1292,Johannes Wurtz,29,Germany,midfield,300000.0
+1785,1293,Dominik Prokop,25,Austria,midfield,300000.0
+1786,1294,Amin Farouk,18,Germany,midfield,125000.0
+1787,1295,Gustaf Nilsson,25,Sweden,attack,500000.0
+1788,1296,Petar Sliskovic,31,Croatia,attack,250000.0
+1789,1297,John Iredale,22,Australia,attack,200000.0
+1790,1298,Alexander Meyer,31,Germany,goalkeeper,600000.0
+1791,1299,Thorsten Kirschbaum,35,Germany,goalkeeper,250000.0
+1792,1300,Kevin Kunz,30,Germany,goalkeeper,150000.0
+1793,1301,Alexander Weidinger,24,Germany,goalkeeper,125000.0
+1794,1302,Steve Breitkreuz,30,Germany,defender,900000.0
+1795,1303,Scott Kennedy,25,Canada,defender,600000.0
+1796,1304,Jan Elvedi,25,Switzerland,defender,600000.0
+1797,1305,Sebastian Nachreiner,33,Germany,defender,250000.0
+1798,1306,Erik Wekesser,24,Germany,defender,1000000.0
+1799,1307,Leon Guwara,25,The Gambia,defender,600000.0
+1800,1308,Benedikt Saller,29,Germany,defender,650000.0
+1801,1309,Benedikt Gimber,25,Germany,midfield,1500000.0
+1802,1310,Björn Zempelin,22,Germany,midfield,100000.0
+1803,1311,Max Besuschkow,25,Germany,midfield,2000000.0
+1804,1312,Carlo Boukhalfa,23,Germany,midfield,650000.0
+1805,1313,Christoph Moritz,32,Germany,midfield,350000.0
+1806,1314,Konrad Faber,24,Germany,midfield,500000.0
+1807,1315,Sarpreet Singh,23,New Zealand,attack,1200000.0
+1808,1316,Charalampos Makridis,25,Germany,attack,325000.0
+1809,1317,Jan-Niklas Beste,23,Germany,attack,1200000.0
+1810,1318,Nicklas Shipnoski,24,Germany,attack,500000.0
+1811,1319,Aygün Yildirim,27,Germany,attack,350000.0
+1812,1320,David Otto,23,Germany,attack,600000.0
+1813,1321,Andreas Albers,32,Denmark,attack,550000.0
+1814,1322,Joël Zwarts,23,Netherlands,attack,500000.0
+1815,1323,Kaan Caliskaner,22,Germany,attack,400000.0
+1816,1324,Markus Schöller,27,Austria,goalkeeper,75000.0
+1817,1325,Fabian Stapfer,19,Germany,goalkeeper,25000.0
+1818,1326,Philipp Walter,26,Germany,defender,100000.0
+1819,1327,Kevin Hingerl,28,Germany,defender,100000.0
+1820,1328,Lukas Mazagg,22,Italy,defender,75000.0
+1821,1329,Milos Lukic,18,Germany,defender, 
+1822,1330,Jérôme Läubli,21,Switzerland,defender,75000.0
+1823,1331,Moritz Moser,29,Austria,defender,75000.0
+1824,1332,Christoph Schulz,25,Germany,defender,100000.0
+1825,1333,Andreas Scheidl,27,Germany,defender,75000.0
+1826,1334,Denis Ade,21,Germany,midfield,75000.0
+1827,1335,Maximilian Reiter,22,Germany,midfield,75000.0
+1828,1336,Felix Bachschmid,25,Germany,midfield,100000.0
+1829,1337,Georgios Spanoudakis,23,Greece,midfield,75000.0
+1830,1338,Christian Fischer,19,Germany,midfield, 
+1831,1339,Ryosuke Kikuchi,28,Japan,midfield,10000.0
+1832,1340,Noah Shawn Agbaje,20,Germany,midfield,75000.0
+1833,1341,Antonio Trograncic,22,Croatia,midfield,10000.0
+1834,1342,Christoph Maier,22,Germany,attack,100000.0
+1835,1343,Nicholas Helmbrecht,27,Germany,attack,75000.0
+1836,1344,Andrija Bosnjak,26,Croatia,attack,100000.0
+1837,1345,Sammy Ammari,27,Germany,attack,75000.0
+1838,1346,Lukas Schlosser,21,Austria,attack,50000.0
+1839,1347,Luca Petzold,20,Germany,goalkeeper, 
+1840,1348,Lukas Schellenberg,21,Germany,goalkeeper, 
+1841,1349,Aaron Manu,22,Germany,defender, 
+1842,1350,Andrey Startsev,27,Kazakhstan,defender, 
+1843,1351,Sönke Schneider,22,Germany,defender, 
+1844,1352,Salomon Patrick Amougou Nkoa,22,Cameroon,defender, 
+1845,1353,Sidny Lopes Cabral,19,Netherlands,defender, 
+1846,1354,Marcel Bär,22,Germany,defender, 
+1847,1355,Til Schwarz,22,Germany,midfield, 
+1848,1356,Jan-Lucas Bärwolf,21,Germany,midfield, 
+1849,1357,Enrico Startsev,18,Germany,midfield, 
+1850,1358,Brian Petnga,22,England,midfield, 
+1851,1359,Moulaye N'Diaye,28,France,midfield, 
+1852,1360,Patrick Aguilar,20,Germany,midfield, 
+1853,1361,Robbie Felßberg,18,Germany,midfield, 
+1854,1362,Kay Seidemann,22,Germany,midfield, 
+1855,1363,Keliano Tavares,21,France,midfield, 
+1856,1364,Abou Ballo,24,France,midfield, 
+1857,1365,Fatlum Elezi,23,Germany,midfield, 
+1858,1366,Kevin Nsimba,24,Congo,attack, 
+1859,1367,Angelos Kerasidis,25,Greece,attack, 
+1860,1368,Romario Hajrulla,23,Albania,attack, 
+1861,1369,Tom Woiwod,21,Germany,attack, 
+1862,1370,Hannes Rückert,21,Germany,attack, 
+1863,1371,Artur Mergel,24,Germany,attack, 
+1864,1372,Sebastian Willibald,34,Germany,goalkeeper, 
+1865,1373,Ronny Klockner,21,Germany,goalkeeper, 
+1866,1374,Stefan Zimmermann,22,Germany,defender, 
+1867,1375,Levent Petruv,21,Germany,defender, 
+1868,1376,Robin Rauser,22,Germany,defender, 
+1869,1377,Eric Dehne,21,Germany,defender, 
+1870,1378,Amadou Marena,29,The Gambia,defender, 
+1871,1379,Felix Waldraff,21,Germany,defender, 
+1872,1380,Christian Neumaier,24,Germany,defender, 
+1873,1381,Michael Beck,21,Germany,midfield, 
+1874,1382,Luka Simunovic,20,Croatia,midfield, 
+1875,1383,Heiko Behr,26,Germany,midfield, 
+1876,1384,Joshua Menger,21,Germany,midfield, 
+1877,1385,Jan Konrad,20,Germany,midfield, 
+1878,1386,Bartosz Broniszewski,34,Germany,midfield, 
+1879,1387,Nicola Guglielmelli,24,Germany,midfield, 
+1880,1388,David Fritz,19,Germany,midfield, 
+1881,1389,Elvir Bekjiri,23,North Macedonia,midfield, 
+1882,1390,Thomas Arnold,29,Germany,midfield, 
+1883,1391,Luca Gruler,27,Germany,midfield, 
+1884,1392,Chimamkpa Samuel Peter,23,Nigeria,attack, 
+1885,1393,Silvio Battaglia,33,Germany,attack, 
+1886,1394,Tom Müller,24,Germany,goalkeeper,100000.0
+1887,1395,Lukas Sedlak,22,Germany,goalkeeper,75000.0
+1888,1396,Alexios Dedidis,20,Greece,goalkeeper,25000.0
+1889,1397,Bastian Strietzel,23,Germany,defender,150000.0
+1890,1398,Maurice Hehne,25,Germany,defender,125000.0
+1891,1399,Dennis Slamar,27,Germany,defender,125000.0
+1892,1400,Burim Halili,24,Germany,defender,100000.0
+1893,1401,René Lange,33,Germany,defender,100000.0
+1894,1402,Marcel Hoppe,22,Germany,defender,50000.0
+1895,1403,Lucas Stauffer,27,United States,defender,100000.0
+1896,1404,Kevin Wolf,26,Germany,defender,75000.0
+1897,1405,Matti Langer,32,Germany,midfield,100000.0
+1898,1406,Justin Schau,23,Germany,midfield,100000.0
+1899,1407,Patrick Scheder,19,Germany,midfield,25000.0
+1900,1408,Leon Bürger,22,Germany,midfield,125000.0
+1901,1409,Felix Drinkuth,27,Germany,attack,125000.0
+1902,1410,Maximilian Krauß,25,Germany,attack,100000.0
+1903,1411,Alexander Prokopenko,20,Germany,attack,100000.0
+1904,1412,Maximilian Oesterhelweg,31,Germany,attack,125000.0
+1905,1413,Maximilian Wolfram,25,Germany,attack,175000.0
+1906,1414,Fabian Eisele,27,Germany,attack,150000.0
+1907,1415,Vasilios Dedidis,22,Greece,attack,75000.0
+1908,1416,Silas Hagemann,19,Germany,attack,25000.0
+1909,1417,Ersin Destanoglu,21,Turkey,goalkeeper,10000000.0
+1910,1418,Mert Günok,33,Turkey,goalkeeper,900000.0
+1911,1419,Emre Bilgin,18,Turkey,goalkeeper,125000.0
+1912,1420,Göktug Baytekin,17,Turkey,goalkeeper,50000.0
+1913,1421,Francisco Montero,23,Spain,defender,2700000.0
+1914,1422,Domagoj Vida,33,Croatia,defender,1900000.0
+1915,1423,Serdar Saatci,19,Turkey,defender,1600000.0
+1916,1424,Welinton,33,Brazil,defender,1000000.0
+1917,1425,Necip Uysal,31,Turkey,defender,850000.0
+1918,1426,Ridvan Yilmaz,21,Turkey,defender,6500000.0
+1919,1427,Umut Meras,26,Turkey,defender,2100000.0
+1920,1428,Fabrice N'Sakala,31,DR Congo,defender,150000.0
+1921,1429,Valentin Rosier,25,France,defender,6000000.0
+1922,1430,Kerem Kalafat,21,Turkey,defender,500000.0
+1923,1431,Douglas,31,Brazil,defender,25000.0
+1924,1432,Souza,33,Brazil,midfield,4200000.0
+1925,1433,Mehmet Topal,36,Turkey,midfield,100000.0
+1926,1434,Miralem Pjanic,32,Bosnia-Herzegovina,midfield,9500000.0
+1927,1435,Can Bozdogan,21,Germany,midfield,4300000.0
+1928,1436,Emirhan Ilkhan,18,Turkey,midfield,3000000.0
+1929,1437,Oguzhan Özyakup,29,Turkey,midfield,1000000.0
+1930,1438,Atiba Hutchinson,39,Canada,midfield,275000.0
+1931,1439,Muhayer Oktay,23,Turkey,midfield,50000.0
+1932,1440,Demir Ege Tiknaz,17,Turkey,midfield,50000.0
+1933,1441,Alex Teixeira,32,Brazil,midfield,2900000.0
+1934,1442,Adem Ljajic,30,Serbia,midfield,1000000.0
+1935,1443,Cyle Larin,27,Canada,attack,10000000.0
+1936,1444,Georges-Kevin N'Koudou,27,Cameroon,attack,4200000.0
+1937,1445,Rachid Ghezzal,30,Algeria,attack,8500000.0
+1938,1446,Gökhan Töre,30,Turkey,attack,300000.0
+1939,1447,Jeremain Lens,34,Netherlands,attack,50000.0
+1940,1448,Emirhan Delibas,19,Turkey,attack,50000.0
+1941,1449,Michy Batshuayi,28,Belgium,attack,10000000.0
+1942,1450,Güven Yalcin,23,Turkey,attack,3000000.0
+1943,1451,Kenan Karaman,28,Turkey,attack,1400000.0
+1944,1452,Jonas Horsch,23,Germany,goalkeeper,50000.0
+1945,1453,Jasin Jashari,24,North Macedonia,goalkeeper,25000.0
+1946,1454,Niklas Griesmeyer,19,Germany,goalkeeper,10000.0
+1947,1455,Florent Berisha,21,Germany,defender,25000.0
+1948,1456,Marlo Siech,24,Germany,defender,25000.0
+1949,1457,Amiro Amadou,19,Germany,defender,25000.0
+1950,1458,Denis Nukic,35,Germany,defender,10000.0
+1951,1459,Abel Maruschke Agbe,21,Germany,defender,10000.0
+1952,1460,Jason Tomety-Hemazro,21,Germany,defender,25000.0
+1953,1461,Lars Tyca,28,Germany,defender,25000.0
+1954,1462,Kerem Sahan,26,Germany,defender,25000.0
+1955,1463,Deniz Kolodziej,25,Germany,defender,10000.0
+1956,1464,Serhat Yazgan,22,Germany,midfield,25000.0
+1957,1465,Daniel Block,31,Germany,midfield,25000.0
+1958,1466,Alessio Arambasic,20,Germany,midfield,25000.0
+1959,1467,Edison Mazreku,23,Kosovo,midfield,25000.0
+1960,1468,Moise Ngwisani,24,DR Congo,midfield,25000.0
+1961,1469,Tom Trebin,24,Germany,midfield,25000.0
+1962,1470,Onur Uzun,24,Germany,midfield,25000.0
+1963,1471,Shuto Kono,29,Japan,midfield,10000.0
+1964,1472,Ebrima Jobe,25,The Gambia,attack,50000.0
+1965,1473,Muhammad Sey,23,The Gambia,attack,10000.0
+1966,1474,Tim Kreutzträger,28,Germany,attack,25000.0
+1967,1475,Erik Köhler,24,Germany,attack,25000.0
+1968,1476,Mechak Nankishi,23,Germany,attack,10000.0
+1969,1477,Fritz Kleiner,19,Germany,attack,10000.0
+1970,1478,Amadou Sarr,22,The Gambia,attack,10000.0
+1971,1479,Simon Enzler,24,Switzerland,goalkeeper,500000.0
+1972,1480,Nicholas Ammeter,21,Switzerland,goalkeeper,100000.0
+1973,1481,Silas Huber,16,Switzerland,goalkeeper, 
+1974,1482,Leon Bergsma,25,Netherlands,defender,350000.0
+1975,1483,Jan Kronig,21,Switzerland,defender,350000.0
+1976,1484,Marco Thaler,27,Switzerland,defender,300000.0
+1977,1485,Aleksandar Cvetkovic,26,Serbia,defender,200000.0
+1978,1486,Binjamin Hasani,19,Switzerland,defender,150000.0
+1979,1487,Bastien Conus,24,Switzerland,defender,200000.0
+1980,1488,Flavio Caserta,18,Switzerland,defender,200000.0
+1981,1489,Arijan Qollaku,25,Albania,defender,250000.0
+1982,1490,Raoul Giger,24,Switzerland,defender,200000.0
+1983,1491,Jérôme Thiesson,34,Switzerland,defender,100000.0
+1984,1492,Silvan Schwegler,18,Switzerland,midfield,650000.0
+1985,1493,Imran Bunjaku,29,Kosovo,midfield,400000.0
+1986,1494,Allen Njie,22,Liberia,midfield,300000.0
+1987,1495,Olivier Jäckle,29,Switzerland,midfield,200000.0
+1988,1496,Liridon Balaj,22,Kosovo,midfield,300000.0
+1989,1497,Kevin Spadanuda,25,Switzerland,midfield,450000.0
+1990,1498,Donat Rrudhani,23,Kosovo,midfield,400000.0
+1991,1499,Marco Aratore,30,Switzerland,midfield,150000.0
+1992,1500,Randy Schneider,20,Switzerland,midfield,400000.0
+1993,1501,Milot Avdyli,19,Kosovo,midfield,50000.0
+1994,1502,Shkëlzen Gashi,33,Albania,attack,250000.0
+1995,1503,Shkelqim Vladi,21,Switzerland,attack,300000.0
+1996,1504,Mickaël Almeida,23,Portugal,attack,300000.0
+1997,1505,Lars Huxsohl,25,Germany,goalkeeper,50000.0
+1998,1506,Stefan Rakocevic,23,Serbia,goalkeeper,50000.0
+1999,1507,Sönke Günther,20,Germany,goalkeeper,25000.0
+2000,1508,Marcel Kindler,40,Germany,goalkeeper,10000.0
+2001,1509,Hamajak Bojadgian,25,Armenia,defender,75000.0
+2002,1510,Fabian Grau,23,Germany,defender,50000.0
+2003,1511,Yannik Nuxoll,24,Germany,defender,25000.0
+2004,1512,Rico Bork,27,Germany,defender,75000.0
+2005,1513,Dane Kummerfeld,30,Germany,defender,25000.0
+2006,1514,Juri Marxen,27,Germany,defender,75000.0
+2007,1515,Jordan Brown,30,Germany,defender,75000.0
+2008,1516,Jonas Behounek,24,Germany,midfield,100000.0
+2009,1517,Evans Nyarko,29,Ghana,midfield,50000.0
+2010,1518,Philipp Koch,31,Germany,midfield,50000.0
+2011,1519,Dylan Williams,28,United States,midfield,75000.0
+2012,1520,Michael Igwe,19,Germany,midfield,10000.0
+2013,1521,Benjamin Dreca,18,Germany,midfield,10000.0
+2014,1522,Nils Brüning,27,Germany,attack,75000.0
+2015,1523,Kang-min Choi,29,"Korea, South",attack,50000.0
+2016,1524,Elias Saad,22,Germany,attack,50000.0
+2017,1525,Noel Denis,20,Germany,attack,10000.0
+2018,1526,Philipp Müller,27,Germany,attack,50000.0
+2019,1527,Jasper Hölscher,24,Germany,attack,25000.0
+2020,1528,Jan Lüneburg,31,Germany,attack,75000.0
+2021,1529,Pelle Hoppe,22,Germany,attack,50000.0
+2022,1530,Batuhan Evren,19,Germany,attack,10000.0
+2023,1531,Daniel Tenenbaum,27,Israel,goalkeeper,700000.0
+2024,1532,Daniel Peretz,21,Israel,goalkeeper,500000.0
+2025,1533,Or Yitzhak,21,Israel,goalkeeper, 
+2026,1534,Josué Sá,29,Portugal,defender,1500000.0
+2027,1535,Idan Nachmias,25,Israel,defender,700000.0
+2028,1536,Enric Saborit,30,Spain,defender,600000.0
+2029,1537,Shahar Piven,26,Israel,defender,500000.0
+2030,1538,Matan Baltaxa,26,Israel,defender,400000.0
+2031,1539,Ofir Davidzada,31,Israel,defender,300000.0
+2032,1540,Maor Kandil,28,Israel,defender,500000.0
+2033,1541,André Geraldes,31,Portugal,defender,400000.0
+2034,1542,Dan Glazer,25,Israel,midfield,1600000.0
+2035,1543,Sheran Yeini,35,Israel,midfield,200000.0
+2036,1544,Gavriel Kanichowsky,24,Israel,midfield,1200000.0
+2037,1545,Eden Shamir,26,Israel,midfield,800000.0
+2038,1546,Eyal Golasa,30,Israel,midfield,600000.0
+2039,1547,Dan Biton,26,Israel,midfield,1000000.0
+2040,1548,Avi Rikan,33,Israel,midfield,150000.0
+2041,1549,Oscar Gloch,18,Israel,midfield, 
+2042,1550,Eylon Almog,23,Israel,attack,600000.0
+2043,1551,Tal Ben Haim,32,Israel,attack,300000.0
+2044,1552,Orel Baye,18,Israel,attack, 
+2045,1553,Brandley Kuwas,29,Curacao,attack,1000000.0
+2046,1554,Matan Hozez,25,Israel,attack,500000.0
+2047,1555,Djordje Jovanovic,23,Serbia,attack,1700000.0
+2048,1556,Stipe Perica,26,Croatia,attack,1500000.0
+2049,1557,Osama Khalaila,24,Israel,attack,600000.0
+2050,1558,Ismet Yumakogullari,27,Turkey,goalkeeper,100000.0
+2051,1559,Korcan Celikay,34,Turkey,goalkeeper,75000.0
+2052,1560,Dogukan Kaya,22,Turkey,goalkeeper,25000.0
+2053,1561,Berkay Dabanli,31,Germany,defender,250000.0
+2054,1562,Diogo Coelho,28,Portugal,defender,200000.0
+2055,1563,Musa Nizam,31,Turkey,defender,175000.0
+2056,1564,Hasan Hatipoglu,32,Turkey,defender,150000.0
+2057,1565,Mazlum Demir,31,Turkey,defender,150000.0
+2058,1566,Alpay Celebi,23,Turkey,defender,100000.0
+2059,1567,Atila Turan,30,Turkey,defender,325000.0
+2060,1568,Kerem Can Akyüz,32,Turkey,defender,200000.0
+2061,1569,Mehmet Yilmaz,26,Turkey,defender,300000.0
+2062,1570,Semih Karadeniz,25,Turkey,defender,200000.0
+2063,1571,Mehmet Tas,31,Turkey,midfield,275000.0
+2064,1572,Georges Mandjeck,33,Cameroon,midfield,275000.0
+2065,1573,Johanna Omolo,32,Kenya,midfield,200000.0
+2066,1574,Denizalp Özdemir,18,Turkey,midfield,25000.0
+2067,1575,Dimitrios Kolovos,29,Greece,midfield,900000.0
+2068,1576,Kubilay Yavuz,27,Turkey,midfield,400000.0
+2069,1577,Mouhamed Diop,21,Senegal,midfield,300000.0
+2070,1578,Yigitali Bayrak,26,Turkey,midfield,200000.0
+2071,1579,Benhur Keser,25,Turkey,attack,400000.0
+2072,1580,Michaël Pereira,34,France,attack,275000.0
+2073,1581,Babacar Gueye,27,Senegal,attack,350000.0
+2074,1582,Samed Kaya,26,Turkey,attack,300000.0
+2075,1583,Rasheed Akanbi,23,Nigeria,attack,275000.0
+2076,1584,Anton Shunin,35,Russia,goalkeeper,1200000.0
+2077,1585,Igor Leshchuk,26,Russia,goalkeeper,800000.0
+2078,1586,Ivan Budachev,20,Russia,goalkeeper,300000.0
+2079,1587,Fabián Balbuena,30,Paraguay,defender,6000000.0
+2080,1588,Ivan Ordets,29,Ukraine,defender,5000000.0
+2081,1589,Roman Evgenjev,23,Russia,defender,3500000.0
+2082,1590,Saba Sazonov,20,Russia,defender,400000.0
+2083,1591,Aleksandr Kutitskiy,20,Russia,defender,300000.0
+2084,1592,Dmitri Skopintsev,25,Russia,defender,4500000.0
+2085,1593,Diego Laxalt,29,Uruguay,defender,3500000.0
+2086,1594,Zaurbek Pliev,30,Russia,defender,300000.0
+2087,1595,Guillermo Varela,29,Uruguay,defender,2500000.0
+2088,1596,Sergey Parshivlyuk,33,Russia,defender,800000.0
+2089,1597,Nikola Moro,24,Croatia,midfield,9000000.0
+2090,1598,Daniil Fomin,25,Russia,midfield,9000000.0
+2091,1599,Arsen Zakharyan,19,Russia,midfield,15000000.0
+2092,1600,Denis Makarov,24,Russia,midfield,6000000.0
+2093,1601,Sebastian Szymanski,23,Poland,midfield,14000000.0
+2094,1602,Daniil Lesovoy,24,Russia,attack,4000000.0
+2095,1603,Vyacheslav Grulev,23,Russia,attack,3500000.0
+2096,1604,Clinton N'Jie,28,Cameroon,attack,1200000.0
+2097,1605,Konstantin Tyukavin,19,Russia,attack,7000000.0
+2098,1606,Fedor Smolov,32,Russia,attack,6000000.0
+2099,1607,Yaroslav Gladyshev,19,Russia,attack,400000.0
+2100,1608,Jörg Siebenhandl,32,Austria,goalkeeper,700000.0
+2101,1609,Tobias Schützenauer,25,Austria,goalkeeper,250000.0
+2102,1610,Luka Maric,19,Austria,goalkeeper,75000.0
+2103,1611,David Affengruber,21,Austria,defender,2500000.0
+2104,1612,Gregory Wüthrich,27,Switzerland,defender,2000000.0
+2105,1613,Niklas Geyrhofer,22,Austria,defender,800000.0
+2106,1614,Alexandar Borkovic,22,Austria,defender,300000.0
+2107,1615,Paul Komposch,21,Austria,defender,75000.0
+2108,1616,Simon Nelson,20,Austria,defender,75000.0
+2109,1617,Amadou Dante,21,Mali,defender,2000000.0
+2110,1618,Vincent Trummer,22,Austria,defender,250000.0
+2111,1619,Jusuf Gazibegovic,22,Bosnia-Herzegovina,defender,2000000.0
+2112,1620,Sandro Ingolitsch,25,Austria,defender,400000.0
+2113,1621,Jon Gorenc Stankovic,26,Slovenia,midfield,3500000.0
+2114,1622,Ivan Ljubic,25,Austria,midfield,800000.0
+2115,1623,Lukas Jäger,28,Austria,midfield,400000.0
+2116,1624,Stefan Hierländer,31,Austria,midfield,800000.0
+2117,1625,Sandro Schendl,19,Austria,midfield,150000.0
+2118,1626,Alexander Prass,21,Austria,midfield,2000000.0
+2119,1627,Andreas Kuen,27,Austria,midfield,600000.0
+2120,1628,Moritz Wels,17,Austria,midfield,250000.0
+2121,1629,Samuel Stückler,21,Austria,midfield,100000.0
+2122,1630,Otar Kiteishvili,26,Georgia,midfield,3000000.0
+2123,1631,Manprit Sarkaria,25,Austria,midfield,2300000.0
+2124,1632,Anderson Niangbo,22,Cote d'Ivoire,midfield,1000000.0
+2125,1633,Christoph Lang,20,Austria,midfield,250000.0
+2126,1634,Francisco Mwepu,22,Zambia,midfield,100000.0
+2127,1635,Luca Kronberger,20,Austria,attack,600000.0
+2128,1636,Rasmus Höjlund,19,Denmark,attack,4500000.0
+2129,1637,Jakob Jantscher,33,Austria,attack,900000.0
+2130,1638,Uwe Gospodarek,48,Germany,goalkeeper, 
+2131,1639,Georg Koch,50,Germany,goalkeeper, 
+2132,1640,Petr Gabriel,49,Czech Republic,defender, 
+2133,1641,Dimitrios Grammozis,43,Greece,midfield, 
+2134,1642,Marian Hristov,48,Bulgaria,midfield, 
+2135,1643,Mario Basler,53,Germany,midfield, 
+2136,1644,Andreas Buck,54,Germany,midfield, 
+2137,1645,Youri Djorkaeff,54,France,midfield, 
+2138,1646,Silvio Adzic,41,Germany,attack, 
+2139,1647,Miroslav Klose,43,Germany,attack, 
+2140,1648,Allan McGregor,40,Scotland,goalkeeper,500000.0
+2141,1649,Robby McCrorie,24,Scotland,goalkeeper,400000.0
+2142,1650,Jon McLaughlin,34,Scotland,goalkeeper,350000.0
+2143,1651,Andy Firth,25,England,goalkeeper,50000.0
+2144,1652,Connor Goldson,29,England,defender,8000000.0
+2145,1653,James Sands,21,United States,defender,4000000.0
+2146,1654,Filip Helander,29,Sweden,defender,3500000.0
+2147,1655,Jack Simpson,25,England,defender,1000000.0
+2148,1656,Leon Balogun,33,Nigeria,defender,800000.0
+2149,1657,Borna Barisic,29,Croatia,defender,6000000.0
+2150,1658,Calvin Bassey,22,Nigeria,defender,1000000.0
+2151,1659,James Tavernier,30,England,defender,7000000.0
+2152,1660,Mateusz Zukowski,20,Poland,defender,2500000.0
+2153,1661,Joe Aribo,25,Nigeria,midfield,10000000.0
+2154,1662,Glen Kamara,26,Finland,midfield,6000000.0
+2155,1663,John Lundstram,28,England,midfield,5500000.0
+2156,1664,Ryan Jack,30,Scotland,midfield,3500000.0
+2157,1665,Scott Arfield,33,Canada,midfield,1600000.0
+2158,1666,Steven Davis,37,Northern Ireland,midfield,1000000.0
+2159,1667,Nnamdi Ofoborh,22,Nigeria,midfield,400000.0
+2160,1668,Stephen Kelly,22,Scotland,midfield,400000.0
+2161,1669,Ben Williamson,20,Scotland,midfield,200000.0
+2162,1670,Ianis Hagi,23,Romania,midfield,7000000.0
+2163,1671,Ryan Kent,25,England,attack,14000000.0
+2164,1672,Scott Wright,24,Scotland,attack,1000000.0
+2165,1673,Glenn Middleton,22,Scotland,attack,500000.0
+2166,1674,Jake Hastie,24,Scotland,attack,250000.0
+2167,1675,Alfredo Morelos,25,Colombia,attack,13000000.0
+2168,1676,Kemar Roofe,29,Jamaica,attack,4000000.0
+2169,1677,Fashion Sakala,25,Zambia,attack,4000000.0
+2170,1678,Cedric Itten,25,Switzerland,attack,3000000.0
+2171,1679,Alex McCarthy,32,England,goalkeeper,3500000.0
+2172,1680,Fraser Forster,34,England,goalkeeper,2500000.0
+2173,1681,Willy Caballero,40,Argentina,goalkeeper,250000.0
+2174,1682,Harry Lewis,24,England,goalkeeper,200000.0
+2175,1683,Jan Bednarek,26,Poland,defender,22000000.0
+2176,1684,Mohammed Salisu,23,Ghana,defender,15000000.0
+2177,1685,Jack Stephens,28,England,defender,8000000.0
+2178,1686,Lyanco,25,Brazil,defender,5000000.0
+2179,1687,Romain Perraud,24,France,defender,8000000.0
+2180,1688,Tino Livramento,19,England,defender,25000000.0
+2181,1689,Kyle Walker-Peters,25,England,defender,18000000.0
+2182,1690,Yan Valery,23,France,defender,2500000.0
+2183,1691,Ibrahima Diallo,23,France,midfield,12000000.0
+2184,1692,Oriol Romeu,30,Spain,midfield,5000000.0
+2185,1693,James Ward-Prowse,27,England,midfield,32000000.0
+2186,1694,Stuart Armstrong,30,Scotland,midfield,6000000.0
+2187,1695,Will Smallbone,22,Ireland,midfield,2000000.0
+2188,1696,Nathan Redmond,28,England,attack,18000000.0
+2189,1697,Moussa Djenepo,23,Mali,attack,11000000.0
+2190,1698,Mohamed Elyounoussi,27,Norway,attack,10000000.0
+2191,1699,Theo Walcott,33,England,attack,3000000.0
+2192,1700,Nathan Tella,22,England,attack,2000000.0
+2193,1701,Ché Adams,25,Scotland,attack,20000000.0
+2194,1702,Adam Armstrong,25,England,attack,16000000.0
+2195,1703,Dan N'Lundulu,23,England,attack,1500000.0
+2196,1704,Shane Long,35,Ireland,attack,800000.0
+2197,1705,Marcel Gehrlein,29,Germany,goalkeeper, 
+2198,1706,Wael Hag Mohamed,37,Germany,goalkeeper, 
+2199,1707,Abdelhak Adel Adni,26,,defender, 
+2200,1708,Francesco Krämer,22,Cuba,defender, 
+2201,1709,Yonis Ali,(-,Somalia,midfield, 
+2202,1710,Naoufal El Ghalbzouri,25,Germany,midfield, 
+2203,1711,Ronay Cöcel,30,Germany,midfield, 
+2204,1712,Bilal El Morabiti,23,Morocco,attack, 
+2205,1713,Fernando Arturo Torrealba Meza,28,Colombia,goalkeeper, 
+2206,1714,Metin Can Kilic,30,Germany,goalkeeper, 
+2207,1715,Swen Belda,39,Germany,goalkeeper, 
+2208,1716,Zeeshan Rasool,28,Pakistan,defender, 
+2209,1717,Yasin Farhad,29,Germany,defender, 
+2210,1718,Fernando Rebora,31,Mexico,defender, 
+2211,1719,Stefan Fleschner,33,Germany,defender, 
+2212,1720,Ridvan Sever,29,Turkey,defender, 
+2213,1721,Burak Karadas,27,Turkey,defender, 
+2214,1722,Marcel Walczak,27,Germany,defender, 
+2215,1723,Christian Irle,36,Germany,defender, 
+2216,1724,Melek Chaari,27,Tunisia,midfield, 
+2217,1725,Fabian Reinhardt,26,Germany,midfield, 
+2218,1726,Benjamin Mayerhofer,34,Germany,midfield, 
+2219,1727,Dominik Zenner,31,Germany,midfield, 
+2220,1728,Philipp Schmid,28,Germany,midfield, 
+2221,1729,Housseyn Kaouane,31,Algeria,midfield, 
+2222,1730,Donovan Stewart,25,United States,midfield, 
+2223,1731,Eric Bremer,21,Germany,midfield, 
+2224,1732,Laurin Berisha,(-,,midfield, 
+2225,1733,Sebastian Reinhardt,32,Germany,attack, 
+2226,1734,Jorge Alberto Rojas Villa,27,Spain,attack, 
+2227,1735,Leon Jean Lannette,25,France,attack, 
+2228,1736,Ferhat Kidis,25,Germany,attack, 
+2229,1737,Ángelo Campos,29,Peru,goalkeeper,600000.0
+2230,1738,Jonathan Medina,29,Peru,goalkeeper,225000.0
+2231,1739,Franco Saravia,23,Peru,goalkeeper,75000.0
+2232,1740,Ángel de la Cruz,20,Peru,goalkeeper,50000.0
+2233,1741,Yordi Vílchez,27,Peru,defender,625000.0
+2234,1742,Pablo Míguez,34,Uruguay,defender,400000.0
+2235,1743,Jefferson Portales,24,Peru,defender,375000.0
+2236,1744,Fabio Rojas,22,Peru,defender,300000.0
+2237,1745,Christian Ramos,33,Peru,defender,275000.0
+2238,1746,Carlos Montoya,20,Peru,defender,275000.0
+2239,1747,Ricardo Lagos,26,Peru,defender,525000.0
+2240,1748,Josepmir Ballón,34,Peru,midfield,300000.0
+2241,1749,Oswaldo Valenzuela,21,Peru,midfield,300000.0
+2242,1750,Aldair Fuentes,24,Peru,midfield,275000.0
+2243,1751,Miguel Cornejo,22,Peru,midfield,275000.0
+2244,1752,Cristian Benavente,28,Peru,midfield,900000.0
+2245,1753,Jairo Concha,23,Peru,midfield,675000.0
+2246,1754,Pablo Lavandeira,32,Uruguay,midfield,375000.0
+2247,1755,Luis Navea,19,Peru,midfield,75000.0
+2248,1756,Darlin Leiton,21,Ecuador,attack,250000.0
+2249,1757,Óscar Pinto,20,Peru,attack,200000.0
+2250,1758,Edgar Benítez,34,Paraguay,attack,200000.0
+2251,1759,Sebastián Cavero,19,Peru,attack,125000.0
+2252,1760,Arley Rodríguez,29,Colombia,attack,450000.0
+2253,1761,Oslimg Mora,23,Peru,attack,425000.0
+2254,1762,Mauricio Matzuda,22,Peru,attack,125000.0
+2255,1763,Aldair Rodríguez,27,Peru,attack,375000.0
+2256,1764,Hernán Barcos,38,Argentina,attack,300000.0
+2257,1765,Jefferson Farfán,37,Peru,attack,200000.0
+2258,1766,Wilmer Aguirre,39,Peru,attack,50000.0
+2259,1767,Dominik Lüchinger,25,Germany,goalkeeper, 
+2260,1768,Thomas Wasmer,31,Germany,goalkeeper, 
+2261,1769,Marc Philipp,24,Germany,goalkeeper, 
+2262,1770,David Pinke,29,Germany,defender, 
+2263,1771,Leon Riede,22,Germany,defender, 
+2264,1772,Arno Leisinger,26,Germany,defender, 
+2265,1773,Kevin Meier,22,Germany,defender, 
+2266,1774,Mirco Böhler,25,Germany,defender, 
+2267,1775,Fabiano Durante,21,Germany,defender, 
+2268,1776,Batuhan Sevinc,22,Germany,defender, 
+2269,1777,Johannes Binkert,20,Germany,midfield, 
+2270,1778,Enes Palandizlar,19,Turkey,midfield, 
+2271,1779,Robin Hinrichsen,20,Germany,midfield, 
+2272,1780,Alija Kapidzija,25,Bosnia-Herzegovina,midfield, 
+2273,1781,Wissam Kassem,25,Lebanon,midfield, 
+2274,1782,Benjamin Gysin,21,Switzerland,midfield, 
+2275,1783,Gianfranco Disanto,29,Italy,attack, 
+2276,1784,Paolo Disanto,25,Italy,attack, 
+2277,1785,Vincent Kittel,28,Germany,attack, 
+2278,1786,Romano Males,22,Croatia,attack, 
+2279,1787,Thibault Lancry,23,France,attack, 
+2280,1788,Sidy Dieng,34,Senegal,attack, 
+2281,1789,Vitaliy Semenchuk,30,Russia,attack, 
+2282,1790,Dominik Reimann,24,Germany,goalkeeper,450000.0
+2283,1791,Benjamin Leneis,23,Germany,goalkeeper,150000.0
+2284,1792,Noah Kruth,18,Germany,goalkeeper,100000.0
+2285,1793,Tom Schlitter,20,Germany,goalkeeper,50000.0
+2286,1794,Tobias Müller,27,Germany,defender,400000.0
+2287,1795,Alexander Bittroff,33,Germany,defender,200000.0
+2288,1796,Korbinian Burger,27,Germany,defender,200000.0
+2289,1797,Leon Bell Bell,25,Germany,defender,300000.0
+2290,1798,Tim Sechelmann,23,Germany,defender,150000.0
+2291,1799,Raphael Obermair,26,Philippines,defender,450000.0
+2292,1800,Tobias Knost,22,Germany,defender,150000.0
+2293,1801,Henry Rorig,22,Germany,defender,150000.0
+2294,1802,Eldin Dzogovic,18,Luxembourg,defender,75000.0
+2295,1803,Andreas Müller,21,Germany,midfield,650000.0
+2296,1804,Julian Rieckmann,21,Germany,midfield,225000.0
+2297,1805,Adrian Malachowski,24,Poland,midfield,150000.0
+2298,1806,Amara Condé,25,Germany,midfield,600000.0
+2299,1807,Sebastian Jakubiak,28,Germany,midfield,150000.0
+2300,1808,Baris Atik,27,Turkey,midfield,800000.0
+2301,1809,Connor Krempicki,27,Germany,midfield,275000.0
+2302,1810,Moritz-Broni Kwarteng,24,Germany,midfield,200000.0
+2303,1811,Tatsuya Ito,24,Japan,attack,600000.0
+2304,1812,Florian Kath,27,Germany,attack,250000.0
+2305,1813,Luka Sliskovic,27,Austria,attack,200000.0
+2306,1814,Nico Granatowski,30,Germany,attack,125000.0
+2307,1815,Jason Ceka,22,Germany,attack,550000.0
+2308,1816,Sirlord Conteh,25,Germany,attack,400000.0
+2309,1817,Maximilian Franzke,23,Germany,attack,150000.0
+2310,1818,Luca Schuler,23,Germany,attack,500000.0
+2311,1819,Kai Brünker,27,Germany,attack,200000.0
+2312,1820,Agustín Rossi,26,Argentina,goalkeeper,3500000.0
+2313,1821,Javier García,35,Argentina,goalkeeper,100000.0
+2314,1822,Leandro Brey,19,Argentina,goalkeeper,75000.0
+2315,1823,Gastón Ávila,20,Argentina,defender,4500000.0
+2316,1824,Nicolás Figal,28,Argentina,defender,3500000.0
+2317,1825,Marcos Rojo,32,Argentina,defender,3400000.0
+2318,1826,Carlos Izquierdoz,33,Argentina,defender,3000000.0
+2319,1827,Carlos Zambrano,32,Peru,defender,800000.0
+2320,1828,Gabriel Aranda,21,Argentina,defender,150000.0
+2321,1829,Agustín Sández,21,Argentina,defender,1500000.0
+2322,1830,Frank Fabra,31,Colombia,defender,1500000.0
+2323,1831,Marcelo Weigandt,22,Argentina,defender,2000000.0
+2324,1832,Luis Advíncula,32,Peru,defender,1200000.0
+2325,1833,Alan Varela,20,Argentina,midfield,7000000.0
+2326,1834,Jorman Campuzano,26,Colombia,midfield,3000000.0
+2327,1835,Esteban Rolón,27,Argentina,midfield,450000.0
+2328,1836,Cristian Medina,20,Argentina,midfield,5500000.0
+2329,1837,Juan Ramírez,29,Argentina,midfield,4000000.0
+2330,1838,Agustín Almendra,22,Argentina,midfield,4000000.0
+2331,1839,Diego González,34,Argentina,midfield,350000.0
+2332,1840,Gabriel Vega,20,Argentina,midfield,100000.0
+2333,1841,Aaron Molinas,21,Argentina,midfield,4000000.0
+2334,1842,Óscar Romero,29,Paraguay,midfield,3700000.0
+2335,1843,Guillermo Pol Fernández,30,Argentina,midfield,3000000.0
+2336,1844,Exequiel Zeballos,20,Argentina,attack,5500000.0
+2337,1845,Sebastián Villa,26,Colombia,attack,5500000.0
+2338,1846,Cristian Pavón,26,Argentina,attack,5500000.0
+2339,1847,Eduardo Salvio,31,Argentina,attack,3800000.0
+2340,1848,Norberto Briasco,26,Armenia,attack,1400000.0
+2341,1849,Luis Vázquez,21,Argentina,attack,4500000.0
+2342,1850,Darío Benedetto,32,Argentina,attack,3000000.0
+2343,1851,Nicolás Orsini,27,Argentina,attack,1500000.0
+2344,1852,Kamil Grabara,23,Poland,goalkeeper,3000000.0
+2345,1853,Karl-Johan Johnsson,32,Sweden,goalkeeper,600000.0
+2346,1854,Johan Guadagno,19,Sweden,goalkeeper,100000.0
+2347,1855,Denis Vavro,26,Slovakia,defender,3000000.0
+2348,1856,Davit Khocholava,29,Georgia,defender,3000000.0
+2349,1857,Nicolai Boilesen,30,Denmark,defender,1000000.0
+2350,1858,Marios Ikonomou,29,Greece,defender,400000.0
+2351,1859,Valdemar Lund Jensen,19,Denmark,defender,100000.0
+2352,1860,Victor Kristiansen,19,Denmark,defender,4000000.0
+2353,1861,Bryan Oviedo,32,Costa Rica,defender,200000.0
+2354,1862,Kevin Diks,25,Netherlands,defender,3500000.0
+2355,1863,Peter Ankersen,31,Denmark,defender,1000000.0
+2356,1864,Ísak Bergmann Jóhannesson,19,Iceland,midfield,4000000.0
+2357,1865,Jens Stage,25,Denmark,midfield,3500000.0
+2358,1866,Lukas Lerager,28,Denmark,midfield,3000000.0
+2359,1867,Zeca,33,Greece,midfield,1000000.0
+2360,1868,Rasmus Falk,30,Denmark,midfield,1000000.0
+2361,1869,Andri Fannar Baldursson,20,Iceland,midfield,700000.0
+2362,1870,Hákon Arnar Haraldsson,19,Iceland,midfield,600000.0
+2363,1871,Pep Biel,25,Spain,midfield,3500000.0
+2364,1872,Viktor Claesson,30,Sweden,attack,9000000.0
+2365,1873,Paul Mukairu,22,Nigeria,attack,3000000.0
+2366,1874,William Böving,19,Denmark,attack,2500000.0
+2367,1875,Luther Singh,24,South Africa,attack,2000000.0
+2368,1876,Akinkunmi Amoo,19,Nigeria,attack,4000000.0
+2369,1877,Roony Bardghji,16,Sweden,attack,1000000.0
+2370,1878,Khouma Babacar,29,Senegal,attack,3700000.0
+2371,1879,Nicolai Jörgensen,31,Denmark,attack,1300000.0
+2372,1880,Mamoudou Karamoko,22,France,attack,900000.0
+2373,1881,Daniel Schikora,38,Germany,midfield, 
+2374,1882,Rody de Boer,24,Netherlands,goalkeeper,700000.0
+2375,1883,Loek Hamers,22,Netherlands,goalkeeper,25000.0
+2376,1884,Dylan Vranken,20,Netherlands,goalkeeper,25000.0
+2377,1885,Daryl Werker,27,Netherlands,defender,375000.0
+2378,1886,Richard Jensen,26,Finland,defender,350000.0
+2379,1887,Guus Joppen,32,Netherlands,defender,200000.0
+2380,1888,Xander Lambrix,22,Belgium,defender,200000.0
+2381,1889,Dehninio Muringen,23,Netherlands,defender,150000.0
+2382,1890,Florian Mayer,24,Germany,defender,100000.0
+2383,1891,Amir Absalem,24,Netherlands,defender,500000.0
+2384,1892,Stefano Marzo,31,Belgium,defender,300000.0
+2385,1893,Robert Klaasen,28,Netherlands,midfield,325000.0
+2386,1894,Pele van Anholt,31,Netherlands,midfield,300000.0
+2387,1895,Quinten-Eladio Beckx,19,Belgium,midfield,25000.0
+2388,1896,Benjamin Bouchouari,20,Morocco,midfield,600000.0
+2389,1897,Niek Vossebelt,30,Netherlands,midfield,300000.0
+2390,1898,Davy van den Berg,22,Netherlands,midfield,300000.0
+2391,1899,Tomer Altman,24,Israel,midfield,200000.0
+2392,1900,Fabio Sposito,20,Belgium,midfield,25000.0
+2393,1901,Xian Emmers,22,Belgium,midfield,650000.0
+2394,1902,Patrick Pflücke,25,Germany,attack,650000.0
+2395,1903,Bryan Limbombe,21,Belgium,attack,475000.0
+2396,1904,Mohamed Amissi,21,Burundi,attack,150000.0
+2397,1905,Jamie Yayi Mpie,21,Belgium,attack,75000.0
+2398,1906,Jamil Takidine,20,Belgium,attack,50000.0
+2399,1907,Jimmy Vijgen,21,Netherlands,attack,50000.0
+2400,1908,Dylan Vente,23,Netherlands,attack,575000.0
+2401,1909,Dailon Rocha Livramento,21,Netherlands,attack,50000.0
+2402,1910,Jason Mann,(-,,midfield, 
+2403,1911,Florian Harke,(-,Germany,midfield, 
+2404,1912,Tim Ridder,(-,Germany,midfield, 
+2405,1913,André Hansen,32,Norway,goalkeeper,800000.0
+2406,1914,Julian Faye Lund,23,Norway,goalkeeper,300000.0
+2407,1915,Sander Tangvik,19,Norway,goalkeeper,200000.0
+2408,1916,Lasse Qvigstad,18,Norway,defender, 
+2409,1917,Sam Rogers,23,United States,defender,200000.0
+2410,1918,Renzo Giampaoli,22,Argentina,defender,50000.0
+2411,1919,Hakon Rösten,17,Norway,defender, 
+2412,1920,Adrian Nilsen Pereira,22,Norway,defender,900000.0
+2413,1921,Adam Andersson,25,Sweden,defender,800000.0
+2414,1922,Jonathan Augustinsson,26,Sweden,defender,600000.0
+2415,1923,Pawel Chrupalla,19,Norway,defender,25000.0
+2416,1924,Dennis Bakke Gaustad,18,Norway,midfield, 
+2417,1925,Marius Sivertsen Broholm,17,Norway,midfield, 
+2418,1926,Sverre Halseth Nypan,15,Norway,midfield, 
+2419,1927,Tobias Börkeeiet,23,Norway,midfield,500000.0
+2420,1928,Pavle Vagic,22,Sweden,midfield,500000.0
+2421,1929,Markus Henriksen,29,Norway,midfield,1000000.0
+2422,1930,Vebjörn Hoff,26,Norway,midfield,600000.0
+2423,1931,Olaus Skarsem,23,Norway,midfield,500000.0
+2424,1932,Per Ciljan Skjelbred,34,Norway,midfield,400000.0
+2425,1933,Edvard Tagseth,21,Norway,midfield,400000.0
+2426,1934,Erlend Dahl Reitan,24,Norway,midfield,1200000.0
+2427,1935,Carlo Holse,23,Denmark,midfield,1600000.0
+2428,1936,Victor Jensen,22,Denmark,midfield,800000.0
+2429,1937,Stefano Holmquist Vecchia,27,Sweden,attack,1100000.0
+2430,1938,Noah Jean Holm,21,Norway,attack,500000.0
+2431,1939,Ole Christian Saeter,26,Norway,attack,100000.0
+2432,1940,Bryan Fiabema,19,Norway,attack,100000.0
