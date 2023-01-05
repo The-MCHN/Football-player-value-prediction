@@ -9,8 +9,8 @@ import clubcodes
 headers = {'Accept-Language': "pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7,fi;q=0.6,de;q=0.5",
            'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36"}
 
-# club_codes_list = clubcodes.get_club_codes()
-club_codes_list= [i for i in range(1,200)]
+club_codes_list = clubcodes.get_club_codes()
+# club_codes_list= [i for i in range(1,200)]
 
 print(club_codes_list)
 players_list = []
@@ -75,7 +75,7 @@ for code in club_codes_list:
 
         values_list.append(values[i].text)
 
-    sleep(4)
+    sleep(1)
 
 cleaned_values_list = []
 for val in values_list:
@@ -96,6 +96,8 @@ df = pd.DataFrame({
 
 # print(df)
 
-df.to_csv("./FootballersDataSet.csv")
+df.to_csv("./BestFootballersDataSet.csv", index=False)
 
 
+
+#%%
